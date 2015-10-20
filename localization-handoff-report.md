@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ae0888ddd727101ca8f9a1851b49a3d43ff9cba4/virtualization/hyperv_on_windows/quick_start/walkthrough_virtual_switch.md) | HandedOff | [Details](#47774db49f5a1c02facd46120ba88a3398a23212181)
+ [README.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/7072749810caaec353f92f9e5697dfb9ced0b2cd/README.md) | HandedOff | [Details](#b9dc5a444d0f8c98a5dc926e9e412f60dbd25f2012)
 
 ## Item Details
-##### <a name='47774db49f5a1c02facd46120ba88a3398a23212181'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ae0888ddd727101ca8f9a1851b49a3d43ff9cba4/virtualization/hyperv_on_windows/quick_start/walkthrough_virtual_switch.md)
+##### <a name='b9dc5a444d0f8c98a5dc926e9e412f60dbd25f2012'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/7072749810caaec353f92f9e5697dfb9ced0b2cd/README.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [47774db49f5a1c02facd46120ba88a3398a23212.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1062ec40c882f94425a0f21be6131307c1e238b3/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/47774db49f5a1c02facd46120ba88a3398a23212.xlf)
+* Handoff File: [b9dc5a444d0f8c98a5dc926e9e412f60dbd25f20.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d6cf01c8918822cc75d4d18e050b73277cd4cc6/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/b9dc5a444d0f8c98a5dc926e9e412f60dbd25f20.xlf)
 * Handback File: 
-* Handoff Datetime: 2015-10-16 23:51:51
+* Handoff Datetime: 2015-10-20 19:33:01
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Include
 * [Back to Top](#report-top)
