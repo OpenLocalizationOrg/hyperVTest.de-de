@@ -1,7 +1,7 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 35
+ Total Files | 34
 
 ## File List
  Source File | Status | Details 
@@ -39,7 +39,6 @@
  [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b624182be96d793f629e6360006d6e39fef5ce7d/virtualization/windowscontainers/quick_start/manage_powershell.md) | HandedBack | [Details](#2f9c7f95a4e72adc022197ab57bc701ad4ba9e4a225)
  [virtualization\windowscontainers\quick_start\quickstart.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b624182be96d793f629e6360006d6e39fef5ce7d/virtualization/windowscontainers/quick_start/quickstart.md) | HandedBack | [Details](#8c1510a894cbdfdb23c23ecdeeeedb2197e43c63259)
  [virtualization\windowscontainers\reference\powershell_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b624182be96d793f629e6360006d6e39fef5ce7d/virtualization/windowscontainers/reference/powershell_overview.md) | HandedBack | [Details](#041b88830b633f85459d3b5be24b0d68ba8071bd262)
- [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b624182be96d793f629e6360006d6e39fef5ce7d/virtualization/windowscontainers/reference/ps_docker_comparison.md) | HandedBack | [Details](#a9225b180b1df05d803b0ba2f23be237d7176f4d263)
  [virtualization\windowscontainers\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b624182be96d793f629e6360006d6e39fef5ce7d/virtualization/windowscontainers/TOC.md) | HandedBack | [Details](#c9a613b41195c01471a39d59e0fccdb2e226b08a264)
 
 ## Item Details
@@ -368,16 +367,6 @@
 * Target File: [virtualization\windowscontainers\reference\powershell_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/84ee9119816a20ea3bcc6acf9879c7c275a29651/virtualization/windowscontainers/reference/powershell_overview.md)
 * Handoff File: [041b88830b633f85459d3b5be24b0d68ba8071bd.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/041b88830b633f85459d3b5be24b0d68ba8071bd.xlf)
 * Handback File: [041b88830b633f85459d3b5be24b0d68ba8071bd.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/041b88830b633f85459d3b5be24b0d68ba8071bd.xlf)
-* Handoff Datetime: 2015-10-13 03:50:48
-* Handback Datetime: 2015-10-16 05:19:08
-* Handoff Reason: Include
-* [Back to Top](#report-top)
-
-##### <a name='a9225b180b1df05d803b0ba2f23be237d7176f4d263'></a> Source: [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b624182be96d793f629e6360006d6e39fef5ce7d/virtualization/windowscontainers/reference/ps_docker_comparison.md)
-* Status: HandedBack
-* Target File: [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/84ee9119816a20ea3bcc6acf9879c7c275a29651/virtualization/windowscontainers/reference/ps_docker_comparison.md)
-* Handoff File: [a9225b180b1df05d803b0ba2f23be237d7176f4d.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/a9225b180b1df05d803b0ba2f23be237d7176f4d.xlf)
-* Handback File: [a9225b180b1df05d803b0ba2f23be237d7176f4d.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/a9225b180b1df05d803b0ba2f23be237d7176f4d.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handback Datetime: 2015-10-16 05:19:08
 * Handoff Reason: Include
