@@ -1,55 +1,53 @@
-#Hyper-v
+#MS-TEST:::HyperV
 
-##Informationen zu
+##MS-TEST:::About
 
-###[Unter Windows Hyper-v] (about/hyperv_on_windows.md)
+###MS-TEST:::[Hyperv on Windows](about/hyperv_on_windows.md)
 
-###[Unterstützte Gastbetriebssystem] (about/supported_guest_os.md)
+###MS-TEST:::[Supported Guest OS](about/supported_guest_os.md)
 
-###[Neuigkeiten] (about/whats_new.md)
+###MS-TEST:::[Whats New](about/whats_new.md)
 
-##[Erstellen] (about/build.md)
+##MS-TEST:::Develop
 
-##Entwickeln
+###MS-TEST:::[Make Mgmt Service](develop/make_mgmt_service.md)
 
-###[Stellen Sie Service-Management] (develop/make_mgmt_service.md)
+###MS-TEST:::[Powershell Snippets](develop/powershell_snippets.md)
 
-###[Powershell-Codeausschnitte] (develop/powershell_snippets.md)
+##MS-TEST:::Quick Start
 
-##Schnellstart
+###MS-TEST:::[Walkthrough](quick_start/walkthrough.md)
 
-###[Exemplarische Vorgehensweise] (quick_start/walkthrough.md)
+###MS-TEST:::[walkthrough checkpoints](quick_start/walkthrough_checkpoints.md)
 
-###[Exemplarische Vorgehensweise Prüfpunkte] (quick_start/walkthrough_checkpoints.md)
+###MS-TEST:::[walkthrough compatibility](quick_start/walkthrough_compatibility.md)
 
-###[Exemplarische Vorgehensweise Compatibility] (quick_start/walkthrough_compatibility.md)
+###MS-TEST:::[walkthrough create_vm](quick_start/walkthrough_create_vm.md)
 
-###[Exemplarische Vorgehensweise Create_vm] (quick_start/walkthrough_create_vm.md)
+###MS-TEST:::[walkthrough export_import](quick_start/walkthrough_export_import.md)
 
-###[Exemplarische Vorgehensweise Export_import] (quick_start/walkthrough_export_import.md)
+###MS-TEST:::[walkthrough install](quick_start/walkthrough_install.md)
 
-###[Exemplarische Vorgehensweise Installation] (quick_start/walkthrough_install.md)
+###MS-TEST:::[walkthrough powershell](quick_start/walkthrough_powershell.md)
 
-###[Exemplarische Vorgehensweise Powershell] (quick_start/walkthrough_powershell.md)
+###MS-TEST:::[walkthrough virtual switch](quick_start/walkthrough_virtual_switch.md)
 
-###[Exemplarische Vorgehensweise virtuellen Switch] (quick_start/walkthrough_virtual_switch.md)
+###MS-TEST:::[walkthrough vmconnect](quick_start/walkthrough_vmconnect.md)
 
-###[Exemplarische Vorgehensweise Vmconnect] (quick_start/walkthrough_vmconnect.md)
+##MS-TEST:::User Guide
 
-##Benutzerhandbuch
+###MS-TEST:::[checkpoints](user_guide/checkpoints.md)
 
-###[Prüfpunkte] (user_guide/checkpoints.md)
+###MS-TEST:::[export import](user_guide/export_import.md)
 
-###[Export Import] (user_guide/export_import.md)
+###MS-TEST:::[migrating vms](user_guide/migrating_vms.md)
 
-###[Migrieren von Vms] (user_guide/migrating_vms.md)
+###MS-TEST:::[remote host management](user_guide/remote_host_management.md)
 
-###[Remotehost-Management] (user_guide/remote_host_management.md)
+###MS-TEST:::[troubleshooting](user_guide/troubleshooting.md)
 
-###[Problembehandlung] (user_guide/troubleshooting.md)
+###MS-TEST:::[user guide nav](user_guide/user_guide_nav.md)
 
-###[User Guide Nav] (user_guide/user_guide_nav.md)
-
-###[Vmsession] (user_guide/vmsession.md)
+###MS-TEST:::[vmsession](user_guide/vmsession.md)
 
 

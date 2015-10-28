@@ -1,78 +1,76 @@
-MS. ContentId: 4981828d-1a08-4d8c-a99d-874a926a153f
-Titel: PowerShell Docker Vergleich
+MS-TEST:::ms.ContentId: 4981828d-1a08-4d8c-a99d-874a926a153f
+title: PowerShell to Docker Comparison
 
-#PowerShell zum Vergleich der Docker für die Verwaltung von Windows Server-Container
+#MS-TEST:::PowerShell to Docker comparison for managing Windows Server Containers
 
-Es gibt viele Verfahren zum Verwalten von Windows Server-Container mit integrierten Windows-Tools (in dieser Vorschau PowerShell) und Open-Source-Verwaltungstools, wie z. B. Docker.
-Führungslinien Gliedern beide einzeln erhältlich hier:
-* [Verwalten von Windows Server-Container mit Docker](../quick_start/manage_docker.md)
-* [Verwalten von Windows Server-Container mit PowerShell](../quick_start/manage_powershell.md)
-    
+MS-TEST:::Updating contents on 27-Oct for testing.
+MS-TEST:::There are many ways to manage Windows Server Containers using both in-box Windows tools (PowerShell, in this preview) and Open Source management tools such as Docker.
+MS-TEST:::Guides outlining both individually available here:
+* MS-TEST:::[Manage Windows Server Containers with Docker](../quick_start/manage_docker.md)
+* MS-TEST:::[Manage Windows Server Containers with PowerShell](../quick_start/manage_powershell.md)
 
-Diese Seite ist einem mehr Tiefe Referenz Vergleich von Docker-Tools und PowerShell-Verwaltungstools.
+MS-TEST:::This page is a more in depth reference comparing the Docker tools and PowerShell management tools.
 
-##PowerShell für Container im Vergleich zu Hyper-V-Computern
+##MS-TEST:::PowerShell for containers versus Hyper-V VMs
 
-Erstellen können, ausführen und mit Windows Server-Container mit PowerShell-Cmdlets interagieren.
-Alles, was Sie benötigen den Einstieg wird im Feld verfügbar.
+MS-TEST:::You can create, run, and interact with Windows Server Containers using PowerShell cmdlets.
+MS-TEST:::Everything you need to get going is available in-box.
 
-Wenn Sie Hyper-V-PowerShell verwendet haben, sollte das Design der Cmdlets Recht vertraut sein.
-Ein Großteil der Workflow ist ähnlich wie eine virtuelle Maschine mit dem Hyper-V-Modul verwaltet.
-Anstelle von `New-VM`, `Get-VM`, `Start-VM`, `Stop-VM`, stehen Ihnen `New-Container`, `Get-Container`, `Start-Container`, `Stop-Container`.
-Es gibt einige Container-spezifische Cmdlets und Parameter, aber die allgemeine Lebenszyklus und Verwaltung von Windows-Container sieht in etwa wie eine Hyper-V-VM.
+MS-TEST:::If you’ve used Hyper-V PowerShell, the design of the cmdlets should be pretty familiar to you.
+MS-TEST:::A lot of the workflow is similar to how you’d manage a virtual machine using the Hyper-V module.
+MS-TEST:::Instead of `New-VM`, `Get-VM`, `Start-VM`, `Stop-VM`, you have `New-Container`, `Get-Container`, `Start-Container`, `Stop-Container`.
+MS-TEST:::There are quite a few container-specific cmdlets and parameters, but the general lifecycle and management of a Windows container looks roughly like that of a Hyper-V VM.
 
-##Wie Vergleich PowerShell Management im zu Docker?
+##MS-TEST:::How does PowerShell management compare to Docker?
 
-Die Container-PowerShell-Cmdlets verfügbar machen eine API, die nicht ganz identisch mit der Docker ist. die Cmdlets sind in der Regel genauer Vorgang.
-Einige Befehle Docker sind unkompliziert Parallels in PowerShell:
+MS-TEST:::The Containers PowerShell cmdlets expose an API that isn’t quite the same as Docker's; as a general rule, the cmdlets are more granular in operation.
+MS-TEST:::Some Docker commands have pretty straightforward parallels in PowerShell:
 
-| Docker-Befehl| PowerShell-Cmdlets|
+| MS-TEST:::Docker command| MS-TEST:::PowerShell Cmdlet|
 |----|----|
-| `Docker Ps - ein`| `Get-Container`|
-| `Docker Bilder`| `Get-ContainerImage`|
-| `Docker rm`| `Entfernen eines Containers`|
-| `Docker rmi`| `Remove-ContainerImage`|
-| `Docker erstellen`| `Neuen Container`|
-| `Docker Commit < Container-ID >`| `Neue ContainerImage-Container < Container >`|
-| `Docker laden < Tarball >`| `Import-ContainerImage < AppX-Paket >`|
-| `Docker speichern`| `Export-ContainerImage`|
-| `Docker starten`| `Start-Container`|
-| `Docker beenden`| `Stop-Container`|
-Die PowerShell-Cmdlets sind keine genaue perfekte Parität, und es gibt eine große Anzahl von Befehlen, die wir nicht PowerShell Ersatz für bereitstellen * (insbesondere `Docker Build` und `Docker cp`).
-Aber was Ihnen sofort auffallen möglicherweise darin, dass es kein einzelnes einzeilige Ersatz für `Docker ausführen`.
+| MS-TEST:::`docker ps -a`| MS-TEST:::`Get-Container`|
+| MS-TEST:::`docker images`| MS-TEST:::`Get-ContainerImage`|
+| MS-TEST:::`docker rm`| MS-TEST:::`Remove-Container`|
+| MS-TEST:::`docker rmi`| MS-TEST:::`Remove-ContainerImage`|
+| MS-TEST:::`docker create`| MS-TEST:::`New-Container`|
+| MS-TEST:::`docker commit <container ID>`| MS-TEST:::`New-ContainerImage -Container <container>`|
+| MS-TEST:::`docker load <tarball>`| MS-TEST:::`Import-ContainerImage <AppX package>`|
+| MS-TEST:::`docker save`| MS-TEST:::`Export-ContainerImage`|
+| MS-TEST:::`docker start`| MS-TEST:::`Start-Container`|
+| MS-TEST:::`docker stop`| MS-TEST:::`Stop-Container`|
+MS-TEST:::The PowerShell cmdlets are not an exact perfect parity, and there are a fair number of commands that we’re not providing PowerShell replacements for* (notably `docker build` and `docker cp`).
+MS-TEST:::But what might leap out at you is that there’s no single one-line replacement for `docker run`.
 
-\ * Vorbehalten.
+MS-TEST:::\* Subject to change.
 
-###Aber ich Docker ausführen! Was ist passiert?
+###MS-TEST:::But I need docker run! What’s going on?
 
-Wir machen, ein paar Dinge, die eine etwas vertrauter Interaktionsmodell für Benutzer bereitstellen, die ihre PowerShell bereits vertraut sind.
-Wenn Sie die Art und Weise Docker arbeitet verwendet, wird dies natürlich etwas ein Umdenken sein.
+MS-TEST:::We’re doing a couple things here to provide a slightly more familiar interaction model for users who know their way around PowerShell already.
+MS-TEST:::Of course, if you’re used to the way docker operates, this will be a bit of a mental shift.
 
-1.  Der Lebenszyklus eines Containers im PowerShell-Modell ist etwas anders.
-    Im Container PowerShell-Modul, wir die präzisere Vorgänge verfügbar machen `New-Container` (wodurch erstellt einen neuen Container, der beendet wurde) und `Start-Container`.
+1.  MS-TEST:::The lifecycle of a container in the PowerShell model is slightly different.
+    MS-TEST:::In the Containers PowerShell module, we expose the more granular operations of `New-Container` (which creates a new container that’s stopped) and `Start-Container`.
     
-    Zwischen erstellen, und starten den Container, können Sie auch den Container Einstellungen konfigurieren. für TP3 ist nur anderen Konfigurationen, die wir bereitstellen möchten die Möglichkeit, die Netzwerkschnittstelle für den Container festlegen.
-    verwenden die (hinzufügen/entfernen/Verbindung herstellen/trennen/Get/Set)-ContainerNetworkAdapter-Cmdlets.
+    MS-TEST:::In between creating and starting the container, you can also configure the container’s settings; for TP3, the only other configuration we’re planning to expose is the ability to set the network connection for the container.
+    MS-TEST:::using the (Add/Remove/Connect/Disconnect/Get/Set)-ContainerNetworkAdapter cmdlets.
     
-2.  Derzeit kann keinen auszuführenden Befehl innerhalb des Containers auf "Start" übergeben werden. Allerdings weiterhin erhalten Sie eine interaktive PowerShell-Sitzung mit einem ausgeführten Container `Enter-PSSession - des Elements < ID eines laufenden Containers >`, und Sie können einen Befehl innerhalb einer ausgeführten Container mit ausführen `Invoke-Command - des Elements < Container-Id > - ScriptBlock {Code innerhalb des Containers ausgeführt werden soll.}` oder `Invoke-Command - des Elements < Container-Id > - FilePath < Pfad >`.  
-    Beide Befehle ermöglichen das optionale `- RunAsAdministrator` für hohe Privilige Aktionen kennzeichnen.
+2.  MS-TEST:::You can’t currently pass a command to be run inside the container on start. However, you can still get an interactive PowerShell session to a running container using `Enter-PSSession -ContainerId <ID of a running container>`, and you can execute a command inside a running container using `Invoke-Command -ContainerId <container id> -ScriptBlock { code to run inside the container }` or `Invoke-Command -ContainerId <container id> -FilePath <path to script>`.  
+    Both of these commands allow the optional `-RunAsAdministrator` flag for high privilige actions.
+
+
+##MS-TEST:::Caveats and known issues
+
+1.  MS-TEST:::Right now, the Containers cmdlets have no knowledge about any containers or images created through Docker, and Docker does not know anything about containers and images created through the PowerShell.
+    MS-TEST:::If you created it in Docker, manage it with Docker; if you created it through PowerShell, manage it through PowerShell.
     
+2.  MS-TEST:::We have quite a bit of work we'd like to do to improve the end user experience -- better error messages, better progress reporting, invalid event strings, and so forth.
+    MS-TEST:::If you happen to run into a situation where you wish you were getting more or better info, please feel free to send suggestions to the forums.
 
+##MS-TEST:::A quick runthrough
 
+MS-TEST:::Here is a walk through of some common workflows.
 
-##Vorbehalte und bekannte Probleme
-
-1.  Jetzt, die Container-Cmdlets haben keine Kenntnis über Container oder Bilder, die durch Docker erstellt und Docker weiß nicht, alles zu Containern und Images, die über die PowerShell erstellt.
-    Wenn Sie in der Docker erstellt, mit der Docker verwalten; Wenn Sie es über PowerShell erstellt haben, können verwalten Sie sich über PowerShell.
-    
-2.  Wir haben eine ziemlich viel Arbeit, die wir tun, damit um der Endbenutzer – verbesserte Fehlermeldungen, bessere Fortschrittsberichte, ungültiges Ereigniszeichenfolgen usw. zu optimieren möchten.
-    Wenn Sie eine Situation auftreten versehentlich, wo sollen Sie waren Weitere erste, oder Informationen besser, wir gerne Vorschläge zu den Foren zu senden.
-
-##Eine schnelle runthrough
-
-Im folgenden wird erörtert einige allgemeine Workflows.
-
-Dabei wird vorausgesetzt, Sie ein Betriebssystemabbild-Container mit dem Namen "ServerDatacenterCore" installiert haben, und erstellt einen virtuellen Switch mit dem Namen "Virtueller Switch" (mit dem New-VMSwitch).
+MS-TEST:::This assumes you've installed an OS container image named "ServerDatacenterCore" and created a virtual switch named "Virtual Switch" (using New-VMSwitch).
 
 ``` PowerShell
 ### 1. Enumerating images
@@ -162,20 +160,20 @@ Import-ContainerImage -Path C:\exports\CN=Test_Image1_1.0.0.0.appx
 Start-Container -Container $container2 
 ```
 
-###Erstellen Sie Ihre eigenen Beispiel
+###MS-TEST:::Build your own sample
 
-Sie sehen, dass der Container Cmdlets mithilfe einer `Get-Command - Modul Container`.
-Es gibt mehrere andere Cmdlets, die hier nicht beschrieben werden, die wir Ihnen Informationen auf Ihren eigenen lassen.
-**Hinweis** Dadurch wird nicht zurückgegeben, die `Enter-PSSession` und `Invoke-Command` Bestandteil des Kerns PowerShell-Cmdlets.
+MS-TEST:::You can see all the Containers cmdlets using `Get-Command -Module Containers`.
+MS-TEST:::There are several other cmdlets that are not described here, which we'll leave to you to learn about on your own.
+MS-TEST:::**Note** This won't return the `Enter-PSSession` and `Invoke-Command` cmdlets, which are part of core PowerShell.
 
-Erhalten Sie Hilfe zur Verwendung von jedem Cmdlet auch `Get-Help [CmdletName]`, bzw. die Referenzdatenbank `[CmdletName]-?`.
-Heute Hilfe wird automatisch generiert und teilt Ihnen nur die Syntax für Befehle. Wir werden weitere Dokumentation hinzufügen werden wie wir näher erhalten an das Cmdlet-Design abschließen.
+MS-TEST:::You can also get help about any cmdlet using `Get-Help [cmdlet name]`, or equivalently `[cmdlet name] -?`.
+MS-TEST:::Today, the help output is auto-generated and just tells you the syntax for commands; we will be adding further documentation as we get closer to finalizing the cmdlet design.
 
-Eine nützlicher Möglichkeit, die Syntax zu ermitteln ist PowerShell ISE, die Sie nicht vor dem besprochen haben können, wenn Sie PowerShell sehr viel verwendet haben.
-Wenn Sie auf eine SKU, die es ermöglicht ausgeführt, starten Sie das Befehlsfenster zu öffnen, und wählen im Modul "Container" der grafisch dargestellt, die Cmdlets und ihren Parameter angezeigt, für die ISE.
+MS-TEST:::A nicer way to discover the syntax is the PowerShell ISE, which you may not have looked at before if you haven't used PowerShell very much.
+MS-TEST:::If you're running on a SKU that permits it, try starting the ISE, opening the Commands pane, and choosing the "Containers" module, which will show you a graphical representation of the cmdlets and their parameter sets.
 
-PS: Nur um zu beweisen, es ist möglich, hier ist eine PowerShell-Funktion, die einige der Cmdlets verfasst, wir bereits, in einem ersatz gesehen haben `Docker ausführen`.
-(Klar gesagt werden, ist dies eine Machbarkeitsstudie nicht in der aktiven Entwicklung.)
+MS-TEST:::PS: Just to prove it can be done, here's a PowerShell function that composes some of the cmdlets we've seen already into an ersatz `docker run`.
+MS-TEST:::(To be clear, this is a proof of concept, not under active development.)
 
 ``` PowerShell
 function Run-Container ([string]$ContainerImageName, [string]$Name="fancy_name", [switch]$Remove, [switch]$Interactive, [scriptblock]$Command) {
@@ -197,16 +195,17 @@ function Run-Container ([string]$ContainerImageName, [string]$Name="fancy_name",
 } 
 ```
 
-##Docker
+##MS-TEST:::Docker
 
-Windows Server-Container können mit Docker-Befehlen verwaltet werden.
-Während Windows Container ihren Gegenstücken Linux vergleichbar sein und sollte die gleiche Verwaltung über Docker auftreten, stehen einige Docker-Befehle, die einfach mit einem Windows-Container nicht sinnvoll sind.
-Andere einfach noch nicht getestet wurden (wir gehen vorhanden).
+MS-TEST:::Windows Server Containers can be managed with Docker commands.
+MS-TEST:::While Windows containers should be comparable to their Linux counterparts and have the same management experience through Docker, there are some Docker commands that simply don't make sense with a Windows container.
+MS-TEST:::Others simply haven't been tested (we're getting there).
 
-In dem Bestreben, die API-Dokumentation Docker nicht duplizieren ist hier ein Link zu ihrer Verwaltungs-APIs.
-Die exemplarischen Vorgehensweisen sind fantastisch.
+MS-TEST:::In an effort to not duplicate the API documentation available in Docker, here is a link to their management APIs.
+MS-TEST:::Their walkthroughs are fantastic.
 
-Wir überwachen die Dinge, die funktionieren und nicht in die Docker-APIs in unser Dokument In Bearbeitung.
+MS-TEST:::We're tracking things that do and don't work in the Docker APIs in our Work in Progress document.
+
 
 
 

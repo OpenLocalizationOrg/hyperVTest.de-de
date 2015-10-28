@@ -1,44 +1,44 @@
-Willkommen Sie beim Entwurfsdokumente veröffentlichen zu öffnen
-===============================================================
+MS-TEST:::Welcome to Open Publishing Design Docs
+================================================
 
-Dies ist das Repository des geöffneten Publishing Entwerfen von Dokumenten unterstützt von MSDN öffnen veröffentlichen.
+MS-TEST:::This is the repository of Open Publishing Design Documents powered by MSDN Open Publishing.
 
-Schnellstart
-------------
+MS-TEST:::Quick Start
+---------------------
 
-Starten Sie die Beiträge zum Veröffentlichen öffnen Dokumente mit den folgenden Schritten:
+MS-TEST:::Start contributing to Open Publishing docs using the following steps:
 
-1. Klonen des Repositorys:
+1. MS-TEST:::Clone the repo:
    ```
    git clone https://github.com/openpublish/docs.git
    ```
 
-2. Bearbeiten Sie die Markdown-Dateien, die mit Ihrem bevorzugten Abzug-Editor.
-3. Commit, und drücken Sie die Änderungen:
+2. MS-TEST:::Edit the Markdown files using your favorite Markdown editor.
+3. MS-TEST:::Commit and push your changes:
    ```
    git add -u
    git commit -m "update doc"
    git push
    ```
 
-4. Warten Sie einen Moment, und Ihre Änderungen automatisch in veröffentlicht:
+4. MS-TEST:::Wait for a moment and your changes will be automatically published to :
     
-    -   Docset 1: https://msdnnext.redmond.corp.microsoft.com/olorg/hypervtest/virtualization/community
-    -   Docset 2: https://msdnnext.redmond.corp.microsoft.com/olorg/hypervtest/virtualization/hyperv_auf_Windows
-    -   Docset 3: https://msdnnext.redmond.corp.microsoft.com/olorg/hypervtest/virtualization/windowscontainers
+    -   MS-TEST:::Docset 1: https://msdnnext.redmond.corp.microsoft.com/olorg/hypervtest/virtualization/community
+    -   MS-TEST:::Docset 2: https://msdnnext.redmond.corp.microsoft.com/olorg/hypervtest/virtualization/hyperv_on_windows
+    -   MS-TEST:::Docset 3: https://msdnnext.redmond.corp.microsoft.com/olorg/hypervtest/virtualization/windowscontainers
 
 
-> Wenn Sie nicht die Berechtigung, auf dieses Repository übertragen haben, verzweigen sie zu Ihrem Konto und verwenden Sie Pull-Anforderung, um die Änderungen zu übermitteln.
+> MS-TEST:::If you don't have the permission to push to this repo, fork it to your own account and use pull request to submit your changes back.
 
-Überprüfung und Vorschau
-------------------------
+MS-TEST:::Validation and Preview
+--------------------------------
 
-Vor dem Laden der Änderungen auf Remote, erstellen und eine Vorschau Ihrer Doc in lokalen Probleme früh zu ermitteln:
+MS-TEST:::Before pushing your changes to remote, you can build and preview your doc in local to discover problems early:
 
-1. Um die Änderungen zu überprüfen, führen Sie einfach `Msbuild` unter dem Stamm der das Repository.
-2. Um die Änderungen in der Vorschau anzeigen:
-    1. Führen Sie `Msbuild /t:serve` unter dem Stamm der das Repository.
-    2. Open `http://localhost: 8000` in Ihrem Browser.
+1. MS-TEST:::To validate your changes, just run `msbuild` under the root of the repo.
+2. MS-TEST:::To preview your changes:
+    1. MS-TEST:::Run `msbuild /t:serve` under the root of the repo.
+    2. MS-TEST:::Open `http://localhost:8000` in your browser.
 
 
 

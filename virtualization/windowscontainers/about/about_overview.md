@@ -1,107 +1,102 @@
-MS. ContentId: 526e4f1a-2936-4c61-b3be-d41b4cf9d10f
-Titel: zu Windows Server-Container
+MS-TEST:::ms.ContentId: 526e4f1a-2936-4c61-b3be-d41b4cf9d10f
+title: About Windows Server Containers
 
-#Windows Server-Container
+#MS-TEST:::Windows Server Containers
 
-Applikationen Kraftstoff Innovation in der Cloud und mobile Zeitraum.
-Container und das Ökosystem, das gezogen, entwickelt werden Softwareentwickler Applications-Erlebnis die nächste Generation erstellen können.
+MS-TEST:::Test updates for demo tomorrow!
+MS-TEST:::Applications fuel innovation in the cloud and mobile era.
+MS-TEST:::Containers, and the ecosystem that is developing around them, will empower software developers to create the next generation of applications experiences.
 
-Sehen Sie sich einen kurzen Überblick: [Windows-basierte Container: moderne app-Entwicklung mit einer unternehmenstauglichen Steuerelement](https://youtu.be/Ryx3o0rD5lY).
+MS-TEST:::Watch a short overview: [Windows-based containers: Modern app development with enterprise-grade control](https://youtu.be/Ryx3o0rD5lY).
 
-##Was sind Container?
+##MS-TEST:::What are containers?
 
-Es handelt sich um eine isolierte, Ressource gesteuerte und portable operating Umgebung.
+MS-TEST:::They are an isolated, resource controlled, and portable operating environment.
 
-Im Grunde ist ein Container einer isolierten Stelle, wo eine Anwendung ohne den Rest des Systems und ohne das System, das sich auf die Anwendung ausgeführt werden kann.
-Container sind der nächste Entwicklungsschritt bei der Virtualisierung.
+MS-TEST:::Basically, a container is an isolated place where an application can run without affecting the rest of the system and without the system affecting the application.
+MS-TEST:::Containers are the next evolution in virtualization.
 
-Wenn Sie innerhalb eines Containers würden, sieht es sehr viel, wie Sie in einem neu installierten physischen Computer oder einen virtuellen Computer wurden.
-Und zu [Docker](https://www.docker.com/), einen Windows Server-Container kann auf die gleiche Weise wie jede andere Container verwaltet werden.
+MS-TEST:::If you were inside a container, it would look very much like you were inside a freshly installed physical computer or a virtual machine.
+MS-TEST:::And, to [Docker](https://www.docker.com/), a Windows Server Container can be managed in the same way as any other container.
 
-##Container-Grundlagen
+##MS-TEST:::Container Fundamentals
 
-Beim Arbeiten mit Containern bemerken Sie viele ähnlichkeiten zwischen einem Container und einer virtuellen Maschine.
-Ein Container ein Betriebssystem ausgeführt wird, verfügt über ein Dateisystem und kann über ein Netzwerk zugegriffen werden, als ob es sich um eine physische oder virtuelle Computersystem war.
-Dies bedeutet, dass die Technologie und die Konzepte hinter Container sehr von dem der virtuelle Computer unterscheiden.
-[In diesem Blogbeitrag](http://azure.microsoft.com/blog/2015/08/17/containers-docker-windows-and-trends/) von Mark Russinovich erklärt auch zu Containern.
+MS-TEST:::When you begin working with containers you will notice many similarities between a container and a virtual machine.
+MS-TEST:::A container runs an operating system, has a file system and can be accessed over a network just as if it was a physical or virtual computer system.
+MS-TEST:::That said, the technology and concepts behind containers are very different from that of virtual machines.
+MS-TEST:::[This blog post](http://azure.microsoft.com/blog/2015/08/17/containers-docker-windows-and-trends/) by Mark Russinovich explains containers well.
 
-Die folgenden grundlegenden Konzepte können nützlich sein, Sie zu Beginn erstellen und Arbeiten mit Windows Server-Containern.
+MS-TEST:::The following key concepts will be helpful as you begin creating and working with Windows Server Containers.
 
+MS-TEST:::**Container Host:** Physical or Virtual computer system configured with the Windows Server Container feature.
+MS-TEST:::The container host will run one or more Windows Server Containers.
 
-**Container Host:** physische oder virtuelle Computersystem mit der Funktion für die Windows Server-Container konfiguriert.
-Der Container-Host führt einen oder mehrere Windows Server-Container.
+MS-TEST:::**Container Image:** As modifications are made to a containers file system or registry, such as with software installation they are captured in the sandbox.
+MS-TEST:::In many cases you may want to capture this state such that new containers can be created that inherit these changes.
+MS-TEST:::That’s what an image is – once the container has stopped you can either discard that sandbox or you can convert it into a new container image.
+MS-TEST:::For example, let’s imagine that you have deployed a container from the Windows Server Core OS image.
+MS-TEST:::You then install MySQL into this container.
+MS-TEST:::Creating a new image from this container would act as a deployable version of the container.
+MS-TEST:::This image would only contain the changes made (MySQL), however would work as a layer on top of the Container OS Image.
 
-**Container-Image:** wie Änderungen an einer Container-Dateisystems oder der Registrierung vorgenommen werden, wie z. B. mit der Softwareinstallation in der Sandbox erfasst werden.
-In vielen Fällen diesen Zustand erfassen empfiehlt, neuer Container erstellt werden können, die diese Änderungen vererbt.
-Was ist ein Image ist – nach der Container, die Sie beendet wurde, kann entweder diese Sandbox verwerfen oder können Sie es in ein neues Container-Bild konvertieren.
-Nehmen wir z. B., dass Sie einen Container aus dem Windows Server Core-Betriebssystem-Image bereitgestellt haben.
-Anschließend installieren Sie MySQL in diesem Container.
-Erstellen ein neues Bild aus diesem Container würde als bereitstellbar Version des Containers fungieren.
-Dieses Bild enthält nur die Änderungen (MySQL), jedoch als eine Schicht über das Betriebssystemabbild Container arbeiten würden.
+MS-TEST:::**Sandbox:** Once a container has been started, all write actions such as file system modifications, registry modifications or software installations are captured in this ‘sandbox’ layer.
 
-**Sandbox:** nach ein Container gestartet wurde, können alle Aktionen bereitstellen, wie z. B. Datei Systemmodifikationen, Änderungen an der Registrierung oder Softwareinstallationen auf dieser Ebene "Sandbox" erfasst werden.
+MS-TEST:::**Container OS Image:** Containers are deployed from images.
+MS-TEST:::The container OS image is the first layer in potentially many image layers that make up a container.
+MS-TEST:::This image provides the operating system environment.
+MS-TEST:::A Container OS Image is Immutable, it cannot be modified.
 
+MS-TEST:::**Container Repository:** Each time a container image is created the container image and its dependencies are stored in a local repository.
+MS-TEST:::These images can be reused many times on the container host.
+MS-TEST:::The container images can also be stored in a public or private repository such as DockerHub so that they can be used across many different container host.
 
+MS-TEST:::**Container Management Technology:** Windows Server Containers can be managed using both PowerShell and Docker.
+MS-TEST:::With either one of these tools you can create new containers, container images as well as manage the container lifecycle.
 
-**Container BS-Image:** Container von Abbildern bereitgestellt werden.
-Das Betriebssystemabbild Container ist möglicherweise viele Bildebenen, aus denen ein Container der ersten Ebene.
-Grafik für das Betriebssystem.
-Ein Container-Betriebssystemabbild ist unveränderlich, kann nicht geändert werden.
+MS-TEST:::<center>![](media/containerfund.png)</center>
 
-**Container Repository:** jedes Mal ein Container-Image, das Container-Image erstellt wird und die abhängigen Elemente in einem lokalen Repository gespeichert werden.
-Diese Bilder können oft auf dem Host Container wiederverwendet werden.
-Die Container-Bilder können auch in einem öffentlichen oder privaten Repository wie z. B. DockerHub gespeichert werden, damit sie über viele verschiedene Container-Host verwendet werden können.
+##MS-TEST:::Containers for Developers
 
-**Container-Management-Technologie:** Windows Server-Container kann mithilfe von PowerShell und Docker verwaltet werden.
-Mit einem dieser Tools können Sie Erstellen neuer Container Container Bilder sowie den Lebenszyklus der Container verwalten.
+MS-TEST:::From a developer’s desktop to a testing machine to a set of production machines, a Docker image can be created that will deploy identically across any environment in seconds.
+MS-TEST:::This story has created a massive and growing ecosystem of applications packaged in Docker containers, with DockerHub, the public containerized-application registry that Docker maintains, currently publishing more than 180,000 applications in the public community repository.
 
-<center>![](media/containerfund.png)</center>
+MS-TEST:::When you containerize an app, only the app and the components needed to run the app are combined into an "image".
+MS-TEST:::Containers are then created from this image as you need them.
+MS-TEST:::You can also use an image as a baseline to create another image, making image creation even faster.
+MS-TEST:::Multiple containers can share the same image, which means containers start very quickly and use fewer resources.
+MS-TEST:::For example, you can use containers to spin up light-weight and portable app components – or ‘micro-services’ – for distributed apps and quickly scale each service separately.
 
-##Container für Entwickler
+MS-TEST:::Because the container has everything it needs to run your application, they are very portable and can run on any machine that is running Windows Server 2016.
+MS-TEST:::You can create and test containers locally, then deploy that same container image to your company's private cloud, public cloud or service provider.
+MS-TEST:::The natural agility of Containers supports modern app development patterns in large scale, virtualized and cloud environments.
 
-Ein Entwickler den Desktop an einen Computer testen, auf einen Satz von Produktionscomputer, ein Docker Bild erstellt werden kann, die in Sekunden genauso wie in jeder Umgebung bereitgestellt wird.
-Dieser Artikel hat eine massive erstellt und wachsenden Ökosystem Anwendungstypen in Docker-Containern mit DockerHub, öffentliche Containern Anwendung Registrierung, die Docker derzeit mehr als 180.000 Applications im öffentlichen Community-Repository veröffentlichen verwaltet, verpackt.
+MS-TEST:::With containers, developers can build an app in any language.
+MS-TEST:::These apps are completely portable and can run anywhere - laptop, desktop, server, private cloud, public cloud or service provider - without any code changes.
 
+MS-TEST:::Containers helps developers build and ship higher-quality applications, faster.
 
+##MS-TEST:::Containers for IT Professionals
 
-Wenn Sie eine app containerize, werden nur die app und zum Ausführen der Anwendung erforderlichen Komponenten "Abbild" zusammengefasst.
-Container werden aus diesem Bild nach Bedarf erstellt.
-Sie können auch ein Bild als Basislinie verwenden, um ein anderes Bild zu erstellen, wodurch schnellere Erstellung von Abbildern.
-Mehrere Container können dasselbe Image, freigeben, d. h. Container sehr schnell starten und weniger Ressourcen.
-Beispielsweise können Sie Container ein leicht Hochfahren und portable app Komponenten – oder "Micro-Dienste" – für apps verteilt und schnell skalieren, jeden Dienst einzeln.
+MS-TEST:::IT Professionals can use containers to provide standardized environments for their development, QA, and production teams.
+MS-TEST:::They no longer have to worry about complex installation and configuration steps.
+MS-TEST:::By using containers, systems administrators abstract away differences in OS installations and underlying infrastructure.
 
-Da dem Container alles zum Ausführen der Anwendung benötigt ist, sie sind sehr leicht portieren und können auf jedem Computer, auf Windows Server 2016 ausführen.
-Sie können erstellen Testcontainer lokal, und, dasselbe Abbild für den Container für private Clouds, öffentliche Cloud oder Dienstanbieter Ihres Unternehmens bereitstellen.
-Die natürliche Flexibilität von Containern moderne app Entwicklungsmustern in großem Maßstab unterstützt, virtualisiert und cloud-Umgebungen.
+MS-TEST:::Containers help admins create an infrastructure that is simpler to update and maintain.
 
-Mit Containern können Entwickler eine Anwendung in jeder Sprache erstellen.
-Diese apps sind vollständig portabel und können überall - Laptop, Desktop, Server, private Clouds, öffentliche Cloud oder Dienstanbieter - Code unverändert ausgeführt werden.
-
-
-
-Container können Entwickler erstellen und höherer Qualität Applications schneller anzubieten.
-
-##Container für IT-Experten
-
-Container können IT-Experten standardisierte Umgebung für ihre Entwicklung, QA und Produktions-Teams bereitstellen.
-Sie müssen nicht mehr über komplexe Installations- und Konfigurationsschritte erforderlich machen.
-Mithilfe von Containern abstrahieren Systemadministratoren abwesend Unterschiede in Betriebssysteminstallationen versorgen und zugrunde liegende Infrastruktur.
-
-Container können Administratoren eine Infrastruktur zu erstellen, die einfacher zu aktualisieren und zu warten ist.
-
-##Video-Überblick
+##MS-TEST:::Video Overview
 
 <iframe src="https://channel9.msdn.com/Blogs/containers/Containers-101-with-Microsoft-and-Docker/player" width="960" height="540" allowFullScreen="true" frameBorder="0" scrolling="no"></iframe>
 
 
-##Wiederholen Sie den Windows Server-Container
+##MS-TEST:::Try Windows Server Containers
 
-[Erste Schritte mit Windows Server-Container in Windows Azure](../quick_start/azure_setup.md)  
-[Erste Schritte mit Windows Server-Containern lokal](../quick_start/container_setup.md)
+MS-TEST:::[Get started with Windows Server Containers in Windows Azure](../quick_start/azure_setup.md)  
+[Get started with Windows Server Containers Locally](../quick_start/container_setup.md)
 
 -------------------
 
-[Zurück zur Startseite von Container](../containers_welcome.md)
+MS-TEST:::
+[Back to Container Home](../containers_welcome.md)
 
 
 
