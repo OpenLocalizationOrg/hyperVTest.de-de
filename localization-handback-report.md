@@ -6,16 +6,16 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\develop\make_mgmt_service.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a90ff81093bda0a2c342a3fc3dab3733baa8e32b/virtualization/hyperv_on_windows/develop/make_mgmt_service.md) | HandedBack | [Details](#f5d28cf383be3b3fdd623b8a40d120e113abc465102)
+ [virtualization\hyperv_on_windows\user_guide\migrating_vms.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/cb19b189d34d205eb7695bc2f3317bf5fc4d9bc2/virtualization/hyperv_on_windows/user_guide/migrating_vms.md) | HandedBack | [Details](#756462edce4cd4cd60a244543d8013718b20fe99193)
 
 ## Item Details
-##### <a name='f5d28cf383be3b3fdd623b8a40d120e113abc465102'></a> Source: [virtualization\hyperv_on_windows\develop\make_mgmt_service.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a90ff81093bda0a2c342a3fc3dab3733baa8e32b/virtualization/hyperv_on_windows/develop/make_mgmt_service.md)
+##### <a name='756462edce4cd4cd60a244543d8013718b20fe99193'></a> Source: [virtualization\hyperv_on_windows\user_guide\migrating_vms.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/cb19b189d34d205eb7695bc2f3317bf5fc4d9bc2/virtualization/hyperv_on_windows/user_guide/migrating_vms.md)
 * Status: HandedBack
-* Target File: [virtualization\hyperv_on_windows\develop\make_mgmt_service.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/e8483c9b7188e97f92f490a373e664987a92e65f/virtualization/hyperv_on_windows/develop/make_mgmt_service.md)
-* Handoff File: [make_mgmt_service.f08a72226cda804bf52172777630838cf58daa2b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/10805a06a1f0d6fb2325c2aebc794a5d78a1d93e/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/make_mgmt_service.f08a72226cda804bf52172777630838cf58daa2b.de-de.xlf)
-* Handback File: [make_mgmt_service.f08a72226cda804bf52172777630838cf58daa2b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0fb23a023a37689fd2fb09cf06bb5209041f38bb/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/make_mgmt_service.f08a72226cda804bf52172777630838cf58daa2b.de-de.xlf)
-* Handoff Datetime: 2015-11-07 00:17:07
-* Handback Datetime: 2015-11-07 00:26:22
+* Target File: [virtualization\hyperv_on_windows\user_guide\migrating_vms.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/1068923d626177a0e26bb1122e5f791de0845015/virtualization/hyperv_on_windows/user_guide/migrating_vms.md)
+* Handoff File: [migrating_vms.c3ab6f486125abf75758937dd83afe9f4e332b1b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/129b8d7b6cb5918b5cfb468148d2d69ad8dde3e1/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/migrating_vms.c3ab6f486125abf75758937dd83afe9f4e332b1b.de-de.xlf)
+* Handback File: [migrating_vms.c3ab6f486125abf75758937dd83afe9f4e332b1b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5411bfc5c9a1012cfb55749b147fb6b8ac5ea013/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/migrating_vms.c3ab6f486125abf75758937dd83afe9f4e332b1b.de-de.xlf)
+* Handoff Datetime: 2015-11-07 00:57:07
+* Handback Datetime: 2015-11-07 01:03:22
 * Handoff Reason: Include
 * [Back to Top](#report-top)
 

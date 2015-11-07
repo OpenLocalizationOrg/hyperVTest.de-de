@@ -4,8 +4,8 @@
  Property | Value 
  -------- | ----- 
  Total Files | 265
-[ Handoff Files ](#handoff-list)| 3
-[ Handback Files ](#handback-list)| 108
+[ Handoff Files ](#handoff-list)| 2
+[ Handback Files ](#handback-list)| 109
 [ Ignored Files ](#ignored-list)| 154
 
 ## <a name='handoff-list'></a> Handoff File List
@@ -13,7 +13,6 @@
  ----------- | ------ | ------- 
  [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/e020d9cb5927431d053644bd3401c27fd41fbbab/virtualization/community/community_overview.md) | HandedOff | [Details](#443f38b1c2eb5bc09a0ff285f4c70d0d65ff57c894)
  [virtualization\hyperv_on_windows\quick_start\walkthrough_powershell.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/d66e8e2881ddac825cd5d65019534177110d892f/virtualization/hyperv_on_windows/quick_start/walkthrough_powershell.md) | HandedOff | [Details](#2c9a0afa2f41f5f42297cdf0a42792929cd1b88d181)
- [virtualization\hyperv_on_windows\user_guide\migrating_vms.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/cb19b189d34d205eb7695bc2f3317bf5fc4d9bc2/virtualization/hyperv_on_windows/user_guide/migrating_vms.md) | HandedOff | [Details](#756462edce4cd4cd60a244543d8013718b20fe99193)
 
 ## <a name='handback-list'></a> Handback File List
  Source File | Status | Details 
@@ -91,6 +90,7 @@
  [virtualization\hyperv_on_windows\user_guide\media\HyperVManager-ConnectToLocalHost.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/2b4f38e2b22fc26e8ed59ed48fb95a400882a312/virtualization/hyperv_on_windows/user_guide/media/HyperVManager-ConnectToLocalHost.png) | HandedBack | [Details](#480f125229e908bd46da36baea6c1628b3b10fb3189)
  [virtualization\hyperv_on_windows\user_guide\media\HyperVManager-ConnectToRemoteHost.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/2b4f38e2b22fc26e8ed59ed48fb95a400882a312/virtualization/hyperv_on_windows/user_guide/media/HyperVManager-ConnectToRemoteHost.png) | HandedBack | [Details](#09140851fb0b7b0d268a1beda2d6423fe3c24e1a190)
  [virtualization\hyperv_on_windows\user_guide\media\HyperVManager-ConnectToRemoteHostAltCreds.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/2b4f38e2b22fc26e8ed59ed48fb95a400882a312/virtualization/hyperv_on_windows/user_guide/media/HyperVManager-ConnectToRemoteHostAltCreds.png) | HandedBack | [Details](#b1547cd8ba6a8ff669e679d64b79773d3878beea191)
+ [virtualization\hyperv_on_windows\user_guide\migrating_vms.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/cb19b189d34d205eb7695bc2f3317bf5fc4d9bc2/virtualization/hyperv_on_windows/user_guide/migrating_vms.md) | HandedBack | [Details](#756462edce4cd4cd60a244543d8013718b20fe99193)
  [virtualization\hyperv_on_windows\user_guide\remote_host_management.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b624182be96d793f629e6360006d6e39fef5ce7d/virtualization/hyperv_on_windows/user_guide/remote_host_management.md) | HandedBack | [Details](#a74f3687bd3a1fe2b92bf8424df6957c6b223aa4194)
  [virtualization\hyperv_on_windows\user_guide\troubleshooting.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b624182be96d793f629e6360006d6e39fef5ce7d/virtualization/hyperv_on_windows/user_guide/troubleshooting.md) | HandedBack | [Details](#d772ee3e60961445f6ad27f6d2e2f14678d990e1195)
  [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b624182be96d793f629e6360006d6e39fef5ce7d/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md) | HandedBack | [Details](#c9963491668f14ebc3a62e3d8e0d43d744a1d341196)
@@ -2302,12 +2302,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='756462edce4cd4cd60a244543d8013718b20fe99193'></a> Source: [virtualization\hyperv_on_windows\user_guide\migrating_vms.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/cb19b189d34d205eb7695bc2f3317bf5fc4d9bc2/virtualization/hyperv_on_windows/user_guide/migrating_vms.md)
-* Status: HandedOff
-* Target File: 
+* Status: HandedBack
+* Target File: [virtualization\hyperv_on_windows\user_guide\migrating_vms.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/1068923d626177a0e26bb1122e5f791de0845015/virtualization/hyperv_on_windows/user_guide/migrating_vms.md)
 * Handoff File: [migrating_vms.c3ab6f486125abf75758937dd83afe9f4e332b1b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/129b8d7b6cb5918b5cfb468148d2d69ad8dde3e1/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/migrating_vms.c3ab6f486125abf75758937dd83afe9f4e332b1b.de-de.xlf)
-* Handback File: 
+* Handback File: [migrating_vms.c3ab6f486125abf75758937dd83afe9f4e332b1b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5411bfc5c9a1012cfb55749b147fb6b8ac5ea013/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/migrating_vms.c3ab6f486125abf75758937dd83afe9f4e332b1b.de-de.xlf)
 * Handoff Datetime: 2015-11-07 00:57:07
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2015-11-07 01:03:22
 * Handoff Reason: Include
 * [Back to Top](#report-top)
 
