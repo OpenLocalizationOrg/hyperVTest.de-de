@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "a90ff81093bda0a2c342a3fc3dab3733baa8e32b",
-  "LastTranslatedCommit": "3a6e30057f41ec59dcbb8ce4fafe6366e2c57056",
+  "LastTranslatedCommit": "e8483c9b7188e97f92f490a373e664987a92e65f",
   "Items": {
     "426af95d3f431c9a2bc4a8c5735a8109792a7b80": {
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
@@ -1946,16 +1946,16 @@
     "f5d28cf383be3b3fdd623b8a40d120e113abc465": {
       "SourceFileCommit": "a90ff81093bda0a2c342a3fc3dab3733baa8e32b",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\develop\\make_mgmt_service.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
+      "TargetFileCommit": "e8483c9b7188e97f92f490a373e664987a92e65f",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\develop\\make_mgmt_service.md",
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\make_mgmt_service.f08a72226cda804bf52172777630838cf58daa2b.de-de.xlf",
       "HandoffFileCommit": "10805a06a1f0d6fb2325c2aebc794a5d78a1d93e",
       "HandoffReason": 1,
       "HandoffDateTime": "2015-11-07T00:17:07.9750316Z",
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\make_mgmt_service.f08a72226cda804bf52172777630838cf58daa2b.de-de.xlf",
+      "HandbackFileCommit": "0fb23a023a37689fd2fb09cf06bb5209041f38bb",
+      "HandbackDateTime": "2015-11-07T00:26:22.1860276Z",
+      "UpdatedDateTime": "2015-11-07T00:26:22.1860276Z",
       "DependencyFrom": null
     }
   }
