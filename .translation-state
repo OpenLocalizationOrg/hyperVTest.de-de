@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "6c7bba4f531365e804a63e81e254d75ae73611a6",
+  "LastProcessedCommit": "7c24b34fcae9d7e43b504c47c8af61665a0cc5b9",
   "LastTranslatedCommit": "1a5a539fe007738355469f79f527bed64d3203f3",
   "Items": {
     "426af95d3f431c9a2bc4a8c5735a8109792a7b80": {
@@ -1898,21 +1898,6 @@
       "UpdatedDateTime": "2015-10-28T04:44:05.661306Z",
       "DependencyFrom": null
     },
-    "443f38b1c2eb5bc09a0ff285f4c70d0d65ff57c8": {
-      "SourceFileCommit": "e020d9cb5927431d053644bd3401c27fd41fbbab",
-      "SourceFilePath": "virtualization\\community\\community_overview.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf",
-      "HandoffFileCommit": "224b115ca063cd5662d15a325e15c1307b0e7304",
-      "HandoffReason": 1,
-      "HandoffDateTime": "2015-11-06T21:30:06.9219563Z",
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
-    },
     "2c9a0afa2f41f5f42297cdf0a42792929cd1b88d": {
       "SourceFileCommit": "d66e8e2881ddac825cd5d65019534177110d892f",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md",
@@ -1986,6 +1971,21 @@
       "HandbackFileCommit": "d5c8447db0069583c8e46d3cef1fa2a0c559a702",
       "HandbackDateTime": "2015-11-09T19:45:50.7734465Z",
       "UpdatedDateTime": "2015-11-09T19:45:50.7734465Z",
+      "DependencyFrom": null
+    },
+    "2b6096cd180b7b28c9355b39e99217a94566644e": {
+      "SourceFileCommit": "7c24b34fcae9d7e43b504c47c8af61665a0cc5b9",
+      "SourceFilePath": "virtualization\\community\\community_overview.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf",
+      "HandoffFileCommit": "22b6e66b5d667ab23f50e3fba0cebe01943e90ce",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-10T23:31:50.9582155Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": null
     }
   }
