@@ -5,8 +5,8 @@
  -------- | ----- 
  Total Files | 265
 [ Handoff Files ](#handoff-list)| 12
-[ Handback Files ](#handback-list)| 100
-[ Ignored Files ](#ignored-list)| 153
+[ Handback Files ](#handback-list)| 101
+[ Ignored Files ](#ignored-list)| 152
 
 ## <a name='handoff-list'></a> Handoff File List
  Source File | Status | Details 
@@ -126,6 +126,7 @@
  [virtualization\windowscontainers\quick_start\media\nginx.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/2b4f38e2b22fc26e8ed59ed48fb95a400882a312/virtualization/windowscontainers/quick_start/media/nginx.png) | HandedBack | [Details](#a9f175f23fed1475c227ec1af2c524c918024bc4256)
  [virtualization\windowscontainers\reference\app_compat.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/4f85656191a964c12d62b41690a9750b5d28194d/virtualization/windowscontainers/reference/app_compat.md) | HandedBack | [Details](#c1f617b6979a758331e6d4e3c48f8846d5b59326261)
  [virtualization\windowscontainers\reference\powershell_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b624182be96d793f629e6360006d6e39fef5ce7d/virtualization/windowscontainers/reference/powershell_overview.md) | HandedBack | [Details](#041b88830b633f85459d3b5be24b0d68ba8071bd262)
+ [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/reference/ps_docker_comparison.md) | HandedBack | [Details](#4afb6a5af36a8ec55d1f0038a7a40ac758a892e8263)
  [virtualization\windowscontainers\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b624182be96d793f629e6360006d6e39fef5ce7d/virtualization/windowscontainers/TOC.md) | HandedBack | [Details](#c9a613b41195c01471a39d59e0fccdb2e226b08a264)
 
 ## <a name='ignored-list'></a> Ignored File List
@@ -283,7 +284,6 @@
  [virtualization\windowscontainers\quick_start\media\Users-Developers-Green.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/quick_start/media/Users-Developers-Green.png) | Ignored | [Details](#e9a4680b71eb3fb8d3c1135d9e7f9ba879d7c1b8257)
  [virtualization\windowscontainers\quick_start\media\Windows-Green.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/quick_start/media/Windows-Green.png) | Ignored | [Details](#f64f7be7c90cddffc0c2fc09c7a975f0bc5fb888258)
  [virtualization\windowscontainers\quick_start\SampleFiles\index.html](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/quick_start/SampleFiles/index.html) | Ignored | [Details](#76e77f976b80356e83b7f48acf8170d619855ad8260)
- [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/reference/ps_docker_comparison.md) | Ignored | [Details](#4afb6a5af36a8ec55d1f0038a7a40ac758a892e8263)
 
 ## Item Details
 ##### <a name='8e3ad5641d0493f8a43c5ab0193fb7467c988ebe0'></a> Source: [.gitignore](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/.gitignore)
@@ -2988,12 +2988,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='4afb6a5af36a8ec55d1f0038a7a40ac758a892e8263'></a> Source: [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/reference/ps_docker_comparison.md)
-* Status: Ignored
-* Target File: 
+* Status: HandedBack
+* Target File: [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/5e621c10a1563c8f38687446b68b34f8b7511a26/virtualization/windowscontainers/reference/ps_docker_comparison.md)
 * Handoff File: 
-* Handback File: 
+* Handback File: [ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/96666cdadc507355491b7cd01b57b86915b65ea9/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.de-de.xlf)
 * Handoff Datetime: 0001-01-01 00:00:00
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2015-11-13 07:43:43
 * Handoff Reason: Ignored
 * [Back to Top](#report-top)
 

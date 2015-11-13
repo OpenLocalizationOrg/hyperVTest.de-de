@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3",
-  "LastTranslatedCommit": "2a75013155e17d0f5265b3cfee680be5ceb173d3",
+  "LastTranslatedCommit": "5e621c10a1563c8f38687446b68b34f8b7511a26",
   "Items": {
     "426af95d3f431c9a2bc4a8c5735a8109792a7b80": {
       "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
@@ -2441,16 +2441,16 @@
     "4afb6a5af36a8ec55d1f0038a7a40ac758a892e8": {
       "SourceFileCommit": "1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3",
       "SourceFilePath": "virtualization\\windowscontainers\\reference\\ps_docker_comparison.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
+      "TargetFileCommit": "5e621c10a1563c8f38687446b68b34f8b7511a26",
+      "TargetFilePath": "virtualization\\windowscontainers\\reference\\ps_docker_comparison.md",
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffReason": 1,
       "HandoffDateTime": "0001-01-01T00:00:00",
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.de-de.xlf",
+      "HandbackFileCommit": "96666cdadc507355491b7cd01b57b86915b65ea9",
+      "HandbackDateTime": "2015-11-13T07:43:43.8560188Z",
+      "UpdatedDateTime": "2015-11-13T07:43:43.8560188Z",
       "DependencyFrom": null
     }
   }

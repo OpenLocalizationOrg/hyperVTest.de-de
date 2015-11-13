@@ -6,17 +6,17 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\user_guide\checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b2582d7cd6d013c926f5f38014121b70d3ef714a/virtualization/hyperv_on_windows/user_guide/checkpoints.md) | HandedBack | [Details](#1958cab11e62080b7dfc8dd8e1f6d41e4b438683185)
+ [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/reference/ps_docker_comparison.md) | HandedBack | [Details](#4afb6a5af36a8ec55d1f0038a7a40ac758a892e8263)
 
 ## Item Details
-##### <a name='1958cab11e62080b7dfc8dd8e1f6d41e4b438683185'></a> Source: [virtualization\hyperv_on_windows\user_guide\checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b2582d7cd6d013c926f5f38014121b70d3ef714a/virtualization/hyperv_on_windows/user_guide/checkpoints.md)
+##### <a name='4afb6a5af36a8ec55d1f0038a7a40ac758a892e8263'></a> Source: [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/reference/ps_docker_comparison.md)
 * Status: HandedBack
-* Target File: [virtualization\hyperv_on_windows\user_guide\checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/2a75013155e17d0f5265b3cfee680be5ceb173d3/virtualization/hyperv_on_windows/user_guide/checkpoints.md)
-* Handoff File: [checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/d24af49cf9e94678f3be7938a4e5fc17396902b7/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.de-de.xlf)
-* Handback File: [checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/01d02bc5657244afa57f122e27a4285029478273/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.de-de.xlf)
-* Handoff Datetime: 2015-11-13 06:11:47
-* Handback Datetime: 2015-11-13 06:24:40
-* Handoff Reason: Include
+* Target File: [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/5e621c10a1563c8f38687446b68b34f8b7511a26/virtualization/windowscontainers/reference/ps_docker_comparison.md)
+* Handoff File: 
+* Handback File: [ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/96666cdadc507355491b7cd01b57b86915b65ea9/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.de-de.xlf)
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2015-11-13 07:43:43
+* Handoff Reason: Ignored
 * [Back to Top](#report-top)
 
 
