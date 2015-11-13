@@ -1,30 +1,30 @@
 ms.ContentId: 6C7EB25D-66FB-4B6F-AB4A-79D6BB424637
 title: Make a new management service
 
-#テスト　アップデート：Make a new management service
+#Make a new management service
 
-テスト　アップデート： テスト　アップデート：This document introduces VM Services built on Hyper-V sockets and how to get started using them.
+12-Nov update. This is a test. This document introduces VM Services built on Hyper-V sockets and how to get started using them.
 
-##テスト　アップデート：What is a VM Service?
+##What is a VM Service?
 
-テスト　アップデート：Adding this sentence for testing HO-HB process. テスト　アップデート：VM Services are services that span the Hyper-V host and virtual machines running on the host.
+Adding this sentence for testing HO-HB process. VM Services are services that span the Hyper-V host and virtual machines running on the host.
 
-テスト　アップデート to verify the bug fixing. テスト　アップデート：Hyper-V now (Windows 10 and Server 2016+) provides a non-network connection which allows you to create services spanning the host/virtual machine boundary while preserving Hyper-V’s fundamental requirements around tenant/hoster isolation, control, and diagnosable.
+Test update to verify the bug fixing. Hyper-V now (Windows 10 and Server 2016+) provides a non-network connection which allows you to create services spanning the host/virtual machine boundary while preserving Hyper-V’s fundamental requirements around tenant/hoster isolation, control, and diagnosable.
 
-テスト　アップデート：Hyper-V will continue to provide a base set of in-box services (integration services) for basics (such as time sync) and for common requests we receive, but now anyone can write and deploy a VM service as needed.
+Hyper-V will continue to provide a base set of in-box services (integration services) for basics (such as time sync) and for common requests we receive, but now anyone can write and deploy a VM service as needed.
 
-テスト　アップデート：PowerShell Direct is an in-box example of a VM Service.
+PowerShell Direct is an in-box example of a VM Service.
 
-##テスト　アップデート：What is a Hyper-V socket?
+##What is a Hyper-V socket?
 
-テスト　アップデート：Hyper-V sockets are TCP-like sockets with no dependence on networking. テスト　アップデート：Using Hyper-V sockets, services can run independently of the networking stack and all data flow stays on host memory.
+Hyper-V sockets are TCP-like sockets with no dependence on networking. Using Hyper-V sockets, services can run independently of the networking stack and all data flow stays on host memory.
 
-##テスト　アップデート：System Requirements
+##System Requirements
 
 **Supported Host OS**
 *   Windows 10
-*   テスト　アップデート：Windows Server Technical Preview 3
-*   テスト　アップデート：Future releases (Server 2016 +)
+*   Windows Server Technical Preview 3
+*   Future releases (Server 2016 +)
 
 **Supported Guest OS**
 *   Windows 10
