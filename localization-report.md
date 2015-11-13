@@ -4,14 +4,11 @@
  Property | Value 
  -------- | ----- 
  Total Files | 265
-[ Handoff Files ](#handoff-list)| 1
-[ Handback Files ](#handback-list)| 112
+[ Handoff Files ](#handoff-list)| 0
+[ Handback Files ](#handback-list)| 113
 [ Ignored Files ](#ignored-list)| 152
 
 ## <a name='handoff-list'></a> Handoff File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/8698a5d457c7689ef96f0ab8ca2891866bd4f5ea/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md) | HandedOff | [Details](#db77e9f2ec6cc92c80b10e8894c373af403731bb196)
 
 ## <a name='handback-list'></a> Handback File List
  Source File | Status | Details 
@@ -94,6 +91,7 @@
  [virtualization\hyperv_on_windows\user_guide\migrating_vms.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/cb19b189d34d205eb7695bc2f3317bf5fc4d9bc2/virtualization/hyperv_on_windows/user_guide/migrating_vms.md) | HandedBack | [Details](#756462edce4cd4cd60a244543d8013718b20fe99193)
  [virtualization\hyperv_on_windows\user_guide\remote_host_management.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/00ed25d3377acdc37a67824a450d1e1bb0a07773/virtualization/hyperv_on_windows/user_guide/remote_host_management.md) | HandedBack | [Details](#d1498bd9bc60453542fdb1221b47fc1f7f2b8e94194)
  [virtualization\hyperv_on_windows\user_guide\troubleshooting.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/00ed25d3377acdc37a67824a450d1e1bb0a07773/virtualization/hyperv_on_windows/user_guide/troubleshooting.md) | HandedBack | [Details](#633eb0cef372616d8e5e645e1d0d1c26adc2a069195)
+ [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/8698a5d457c7689ef96f0ab8ca2891866bd4f5ea/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md) | HandedBack | [Details](#db77e9f2ec6cc92c80b10e8894c373af403731bb196)
  [virtualization\hyperv_on_windows\user_guide\vmsession.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/00ed25d3377acdc37a67824a450d1e1bb0a07773/virtualization/hyperv_on_windows/user_guide/vmsession.md) | HandedBack | [Details](#3ad17dbfa5dc1029c8196efe7ea00a259489e526197)
  [virtualization\hyperv_on_windows\windows_welcome_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/hyperv_on_windows/windows_welcome_new.md) | HandedBack | [Details](#fb104b004c33cf57298cba16b47dd3d6e787fbcf198)
  [virtualization\windowscontainers\about\about_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/about/about_overview.md) | HandedBack | [Details](#8ded5c3d5771d92d11deeadd4a4d9b66d4854946199)
@@ -2332,12 +2330,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='db77e9f2ec6cc92c80b10e8894c373af403731bb196'></a> Source: [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/8698a5d457c7689ef96f0ab8ca2891866bd4f5ea/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md)
-* Status: HandedOff
-* Target File: 
+* Status: HandedBack
+* Target File: [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/1aeb7cb0d8c420ef5edd79bdf501402325055ca2/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md)
 * Handoff File: [user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9e58ed4d02750fb384ffe8d8cee1992de03d6b9e/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf)
-* Handback File: 
+* Handback File: [user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/a475e3dc23bc82f0732f74dabd2789947a9e32ff/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf)
 * Handoff Datetime: 2015-11-13 20:36:09
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2015-11-13 20:44:29
 * Handoff Reason: Include
 * [Back to Top](#report-top)
 
