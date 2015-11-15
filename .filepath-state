@@ -324,5 +324,8 @@
   ],
   "c9a613b41195c01471a39d59e0fccdb2e226b08a": [
     "virtualization\\windowscontainers\\TOC.md"
+  ],
+  "a3901c8d691fd09533a40e9e689d32d2c2e22a0e": [
+    "virtualization\\windowscontainers\\reference\\ps_docker_comparison.md"
   ]
 }

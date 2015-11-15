@@ -6,17 +6,17 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/8698a5d457c7689ef96f0ab8ca2891866bd4f5ea/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md) | HandedBack | [Details](#db77e9f2ec6cc92c80b10e8894c373af403731bb196)
+ [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/8698a5d457c7689ef96f0ab8ca2891866bd4f5ea/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md) | FullHandedBack | [Details](#db77e9f2ec6cc92c80b10e8894c373af403731bb196)
 
 ## Item Details
 ##### <a name='db77e9f2ec6cc92c80b10e8894c373af403731bb196'></a> Source: [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/8698a5d457c7689ef96f0ab8ca2891866bd4f5ea/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md)
-* Status: HandedBack
+* Status: FullHandedBack
 * Target File: [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/1aeb7cb0d8c420ef5edd79bdf501402325055ca2/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md)
 * Handoff File: [user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9e58ed4d02750fb384ffe8d8cee1992de03d6b9e/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf)
-* Handback File: [user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/a475e3dc23bc82f0732f74dabd2789947a9e32ff/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf)
 * Handoff Datetime: 2015-11-13 20:36:09
-* Handback Datetime: 2015-11-13 20:44:29
 * Handoff Reason: Include
+* Handback File: [user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/a475e3dc23bc82f0732f74dabd2789947a9e32ff/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf)
+* Handback Datetime: 2015-11-13 20:44:29
 * [Back to Top](#report-top)
 
 
