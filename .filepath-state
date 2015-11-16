@@ -86,6 +86,9 @@
   "f3bf32b449c95a8f26413d052e19e947cac21b17": [
     "virtualization\\windowscontainers\\about\\work_in_progress.md"
   ],
+  "dae37299a5f0b070b495f82863583a38f3ac8860": [
+    "virtualization\\windowscontainers\\containers_welcome.md"
+  ],
   "6891272afaabfedb7572dcf1c03bea19118bb8a9": [
     "virtualization\\windowscontainers\\containers_welcome.md"
   ],
@@ -309,10 +312,15 @@
     "virtualization\\hyperv_on_windows\\media\\whats_new.png"
   ],
   "215adae041390b1edb10b314dc7ce21f6b39592e": [
-    "virtualization\\hyperv_on_windows\\media\\MeetsRequirements_65.png"
+    "virtualization\\hyperv_on_windows\\media\\MeetsRequirements_65.png",
+    "virtualization\\windowscontainers\\media\\1.png"
   ],
   "8489e1cb35de12a7cc54a8c1b29f40672eaac851": [
     "virtualization\\hyperv_on_windows\\media\\All_ContentTypeIcons_VisualWalkthrough_65.png"
+  ],
+  "f8028372876eb8d38fb4571b18bdc30585c95087": [
+    "virtualization\\hyperv_on_windows\\media\\Chat_65.png",
+    "virtualization\\windowscontainers\\media\\Chat_65.png"
   ],
   "c51de2e49664fbb16e1e5f8ee2d820b31461541e": [
     "virtualization\\hyperv_on_windows\\media\\Chat_65.png"
