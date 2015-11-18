@@ -3,16 +3,16 @@ title: Containers Welcome
 
 #Windows Containers
 
-Hey!!!!!!!!!! テストです。This is a test update to see if this update will get include in the HO creation. テストです。Windows containers provide operating system level virtualization that allow you to run multiple isolated applications on one container host.
+Hey! テストアップデート：This is a test update to see if this update will get include in the HO creation. Windows containers provide operating system level virtualization that allow you to run multiple isolated applications on one container host.
 
-テストです。The following table list topics that provide more information about Windows containers, a guided quick start so that you can try out Windows containers, and additional resources.
+The following table list topics that provide more information about Windows containers, a guided quick start so that you can try out Windows containers, and additional resources.
 
 <table border="1" style="background-color:FFFFCC;border-collapse:collapse;border:1px solid FFCC00;color:000000;width:100%" cellpadding="15" cellspacing="3">
         <tr valign="top">
-        <td><center>![](media/try.png)</center></td>
+        <td><center>![](media/Chat_65.png)</center></td>
         <td>        
-              <p><strong>テストです。Get started with Windows Containers</strong></p>
-              <p>テストです。The following resources will walk you through the deployment, creation, and simple management of Windows Containers.</p>
+              <p><strong>Get started with Windows Containers</strong></p>
+              <p>The following resources will walk you through the deployment, creation, and simple management of Windows Containers.</p>
             <ul>
                 <li class="unordered">[Get started with Windows Server Containers in Windows Azure](./quick_start/azure_setup.md)<br /><br /></li>
                 <li class="unordered">[Get started with Windows Server Containers in a new Hyper-V virtual machine](./quick_start/container_setup.md)<br /><br /></li>
@@ -25,8 +25,8 @@ Hey!!!!!!!!!! テストです。This is a test update to see if this update will
     <tr valign="top">
         <td><center>![](media/1.png)</center></td>
         <td valign="top">       
-                <p><strong>テストです。Learn about Windows Containers</strong></p>
-                <p>テストです。The following articles provide an introduction and overview of Windows Containers.</p>
+                <p><strong>Learn about Windows Containers</strong></p>
+                <p>The following articles provide an introduction and overview of Windows Containers.</p>
             <ul>
                 <li class="unordered">[About Windows Containers](./about/about_overview.md)<br /><br /></li>
                 <li class="unordered">[Frequently Asked Questions](./about/faq.md)<br /><br /></li>
@@ -37,8 +37,8 @@ Hey!!!!!!!!!! テストです。This is a test update to see if this update will
     <tr valign="top">
         <td><center>![](media/question.png)</center></td>
         <td>        
-              <p><strong>テストです。Connect with Community and Support</strong></p>
-              <p>テストです。Additional technical support and community resources</p>
+              <p><strong>Connect with Community and Support</strong></p>
+              <p>Additional technical support and community resources</p>
             <ul>
                 <li class="unordered">[Ask Question at the Windows Server Container Forum](https://social.msdn.microsoft.com/Forums/en-US/home?forum=windowscontainers)<br /><br /></li>
                 <li class="unordered">[Additional Windows Server Container Resources](https://msdn.microsoft.com/virtualization/community/community_overview)<br /><br /></li>
@@ -48,7 +48,7 @@ Hey!!!!!!!!!! テストです。This is a test update to see if this update will
     <tr valign="top">
         <td><center>![](media/explore.png)</center></td>
         <td>        
-              <p><strong>テストです。Explore Samples</strong></p>
+              <p><strong>Explore Samples</strong></p>
               <p>Explore and reuse container code samples.</p>
             <ul>
                 <li class="unordered">[Container Sample Code](https://github.com/Microsoft/Virtualization-Documentation/tree/master/windows-server-container-samples)<br /><br /></li>
