@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "3a829ad3ff766b5afbc3ed2e2d9a6669d986cd8f",
-  "LastTranslatedCommit": "12e801aa660f4c0ddd8b37815bf77ad303488d07",
+  "LastTranslatedCommit": "841c3e8a2b84d62261fac728d86f7d863fecf7a4",
   "Items": {
     "426af95d3f431c9a2bc4a8c5735a8109792a7b80": {
       "FileHash": "426af95d3f431c9a2bc4a8c5735a8109792a7b80",
@@ -3154,16 +3154,16 @@
       "FileHash": "18785a9d11b0b336401496af54d6658c577e9cea",
       "SourceFileCommit": "b1af1a5ee0b96f3210b4fa5ad1d3049514cd2fba",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome_new.md",
-      "TargetFileCommit": "12e801aa660f4c0ddd8b37815bf77ad303488d07",
+      "TargetFileCommit": "841c3e8a2b84d62261fac728d86f7d863fecf7a4",
       "TargetFilePath": "virtualization\\hyperv_on_windows\\windows_welcome_new.md",
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\windows_welcome_new.7f23ab90b609bd894e638ebac56e2bc04c35f245.de-de.xlf",
       "HandoffFileCommit": "516d41bfeb58dc18c15c98057b3ba5fcffa0b256",
       "HandoffReason": 1,
       "HandoffDateTime": "2015-11-18T22:04:52.99325Z",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\windows_welcome_new.7f23ab90b609bd894e638ebac56e2bc04c35f245.de-de.xlf",
-      "HandbackFileCommit": "01e32bd486b3048352a9232be35be2841e8b9d8f",
-      "HandbackDateTime": "2015-11-18T23:48:48.990605Z",
-      "UpdatedDateTime": "2015-11-18T23:48:48.990605Z",
+      "HandbackFileCommit": "c12b2fb7285989f229a8868fb4441f473519771d",
+      "HandbackDateTime": "2015-11-19T01:01:00.1280604Z",
+      "UpdatedDateTime": "2015-11-19T01:01:00.1280604Z",
       "DependencyFrom": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\windows_welcome_new.md"
