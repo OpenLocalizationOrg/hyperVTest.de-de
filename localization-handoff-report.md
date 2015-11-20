@@ -6,17 +6,20 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/178c959821157eeaf6ad8a5f87f2fd4b83e2cea9/virtualization/hyperv_on_windows/about/powershell_snippets_new.md) | HandedOff | [Details](#dbafa1d6e63dbfd904402ffa16033bd0fe63005e98)
+ [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/02394629594e9a7913b5f395aca5e66ace407e75/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md) | PartialHandedBack | [Details](#a0dbaa21b5dee2e66567ce907c3e892b5fee4d50175)
 
 ## Item Details
-##### <a name='dbafa1d6e63dbfd904402ffa16033bd0fe63005e98'></a> Source: [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/178c959821157eeaf6ad8a5f87f2fd4b83e2cea9/virtualization/hyperv_on_windows/about/powershell_snippets_new.md)
-* Status: HandedOff
+##### <a name='a0dbaa21b5dee2e66567ce907c3e892b5fee4d50175'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/02394629594e9a7913b5f395aca5e66ace407e75/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
+* Status: PartialHandedBack
 * Target File: 
-* Handoff File: [powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/08f180fd1f59e4521582509b5f972081b9079705/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.de-de.xlf)
-* Handoff Datetime: 2015-11-19 07:30:53
+* Handoff File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/53d454d5c1b9dab10680d8f5f6fc9b76cc364347/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf)
+* Handoff Datetime: 2015-11-20 18:54:57
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/085689d595eee0df48e98ba5705ebc409dbe2533/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
+* Current Handback File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf)
+* Current Handback Datetime: 2015-11-13 04:43:07
 * [Back to Top](#report-top)
 
 
