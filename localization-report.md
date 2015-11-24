@@ -5,8 +5,8 @@
  -------- | ----- 
  Total Files | 265
 [ Handoff Files ](#handoff-list)| 2
-[ Partial Handback Files ](#partial-handback-list)| 4
-[ Full Handback Files ](#full-handback-list)| 107
+[ Partial Handback Files ](#partial-handback-list)| 3
+[ Full Handback Files ](#full-handback-list)| 108
 [ Ignored Files ](#ignored-list)| 152
 
 ## <a name='handoff-list'></a> Handoff File List
@@ -19,7 +19,6 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [virtualization\hyperv_on_windows\media\Chat_65.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b6b597901bca274d5d4d377f8dcb2c55f59f6b6d/virtualization/hyperv_on_windows/media/Chat_65.png) | PartialHandedBack | [Details](#f8028372876eb8d38fb4571b18bdc30585c95087105)
- [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/2bb36be503f6cf089844eebf3081f2c32f9890b1/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md) | PartialHandedBack | [Details](#5d6cb109a4da839670b5e2f494a8d7302baa4e2e175)
  [virtualization\hyperv_on_windows\user_guide\checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/9a283b5170b3250c5c9c7d4539ecd55fd0ad7ba7/virtualization/hyperv_on_windows/user_guide/checkpoints.md) | PartialHandedBack | [Details](#a43c4b1981e5a2c5c56f361d02c02e2a1b0f6e51184)
  [virtualization\hyperv_on_windows\windows_welcome_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/e5a377ac5704a2eed2918e7228318ef92356d80f/virtualization/hyperv_on_windows/windows_welcome_new.md) | PartialHandedBack | [Details](#3ecdd26ebe4ceede8ca5210bacc7320309a0d58f197)
 
@@ -83,6 +82,7 @@
  [virtualization\hyperv_on_windows\quick_start\media\turnoff.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/2b4f38e2b22fc26e8ed59ed48fb95a400882a312/virtualization/hyperv_on_windows/quick_start/media/turnoff.png) | FullHandedBack | [Details](#0ace2b0a0fb0268ec72373ff912836157cddbda5170)
  [virtualization\hyperv_on_windows\quick_start\media\virtual_switch_manager1.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/2b4f38e2b22fc26e8ed59ed48fb95a400882a312/virtualization/hyperv_on_windows/quick_start/media/virtual_switch_manager1.png) | FullHandedBack | [Details](#2d6238ee2a2ab32abb8c554ed523d991dd2872a5172)
  [virtualization\hyperv_on_windows\quick_start\walkthrough.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/00ed25d3377acdc37a67824a450d1e1bb0a07773/virtualization/hyperv_on_windows/quick_start/walkthrough.md) | FullHandedBack | [Details](#69a31967b060e5d558ffb53c3c3f9134e3a1c8cb174)
+ [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/2bb36be503f6cf089844eebf3081f2c32f9890b1/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md) | FullHandedBack | [Details](#5d6cb109a4da839670b5e2f494a8d7302baa4e2e175)
  [virtualization\hyperv_on_windows\quick_start\walkthrough_compatibility.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/00ed25d3377acdc37a67824a450d1e1bb0a07773/virtualization/hyperv_on_windows/quick_start/walkthrough_compatibility.md) | FullHandedBack | [Details](#6d60804c50f098828298c045dae14403b015a6ec176)
  [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/00ed25d3377acdc37a67824a450d1e1bb0a07773/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md) | FullHandedBack | [Details](#85f096222dc7b1f855cf2d3f5f9b74a1247ddea6177)
  [virtualization\hyperv_on_windows\quick_start\walkthrough_export_import.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/00ed25d3377acdc37a67824a450d1e1bb0a07773/virtualization/hyperv_on_windows/quick_start/walkthrough_export_import.md) | FullHandedBack | [Details](#53d997b02de228f6adadd28a761ddfc313d31b17178)
@@ -2137,16 +2137,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='5d6cb109a4da839670b5e2f494a8d7302baa4e2e175'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/2bb36be503f6cf089844eebf3081f2c32f9890b1/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
-* Status: PartialHandedBack
-* Target File: 
+* Status: FullHandedBack
+* Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/3fb67de64073b92f422f0cc65656927564add4d4/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
 * Handoff File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cd755468771a2a5670b87c26cc14dfd23cc86cb2/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf)
 * Handoff Datetime: 2015-11-23 21:07:16
 * Handoff Reason: Include
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/ece577ffb6b315411dae83aa2aa3198cdbcd8168/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
-* Current Handback File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/981999cbaac9e8202ac1fc45255cc0e70f90e403/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf)
-* Current Handback Datetime: 2015-11-24 00:11:33
+* Handback File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/f49b51406640a80d614baf3ce48728f13d5a28ea/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf)
+* Handback Datetime: 2015-11-24 00:18:10
 * [Back to Top](#report-top)
 
 ##### <a name='6d60804c50f098828298c045dae14403b015a6ec176'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_compatibility.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/00ed25d3377acdc37a67824a450d1e1bb0a07773/virtualization/hyperv_on_windows/quick_start/walkthrough_compatibility.md)
