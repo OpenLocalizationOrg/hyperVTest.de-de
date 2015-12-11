@@ -60,7 +60,7 @@ For Windows 10 Hyper-V Hosts:
 
 | Guest operating system| |
 | -----|------|
-| [CentOS and Red Hat Enterprise Linux ](https://technet.microsoft.com/library/dn531026.aspx)| |
+| [Test CentOS and Red Hat Enterprise Linux ](https://technet.microsoft.com/library/dn531026.aspx)| |
 | [Debian virtual machines on Hyper-V](https://technet.microsoft.com/library/dn614985.aspx)| |
 | [SUSE](https://technet.microsoft.com/en-us/library/dn531027.aspx)| |
 | [Oracle Linux](https://technet.microsoft.com/en-us/library/dn609828.aspx)| |
