@@ -60,7 +60,7 @@ For Windows 10 Hyper-V Hosts:
 
 | Guest operating system| |
 | -----|------|
-| [Test CentOS and Red Hat Enterprise Linux ](https://technet.microsoft.com/library/dn531026.aspx)| |
+| [CentOS and Red Hat Enterprise Linux ](https://technet.microsoft.com/library/dn531026.aspx)| |
 | [Debian virtual machines on Hyper-V](https://technet.microsoft.com/library/dn614985.aspx)| |
 | [SUSE](https://technet.microsoft.com/en-us/library/dn531027.aspx)| |
 | [Oracle Linux](https://technet.microsoft.com/en-us/library/dn609828.aspx)| |
@@ -68,25 +68,6 @@ For Windows 10 Hyper-V Hosts:
 | [FreeBSD](https://technet.microsoft.com/library/dn848318.aspx)| |
 
 There are caveats around specific kernel versions. For more information, including support information on past versions of Hyper-V, see [Linux and FreeBSD Virtual Machines on Hyper-V](https://technet.microsoft.com/library/dn531030.aspx).
-
-##Link text examples:
-[I'm an inline-style link](https://www.google.com)
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive Reference TEXT]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
 
 
 
