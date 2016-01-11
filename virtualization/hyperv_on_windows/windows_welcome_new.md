@@ -2,9 +2,9 @@ ms.ContentId: 09eacb3a-bcd2-4724-9c73-6d47ec06f385
 title: Hyper-V on Windows 10
 
 
-#Hyper-V on Windows 10
+# Hyper-V on Windows 10
 
-テストアップデート：18-Nov update, Part3! Hyper-V lets you run more than one 32-bit or 64-bit x86 operating system at the same time on the same computer. Instead of running directly on the computer’s hardware, the operating systems run inside of a virtual machine (VM).
+18-Nov update, Part4! Hyper-V lets you run more than one 32-bit or 64-bit x86 operating system at the same time on the same computer. Instead of running directly on the computer’s hardware, the operating systems run inside of a virtual machine (VM).
 
 
 Hyper-V in Windows is sometimes referred to as Client Hyper-V.
@@ -72,3 +72,4 @@ Here are a few links to other versions of Hyper-V:
 
 
 
+<!--HONumber=Jan16_HO1-->

@@ -1,13 +1,14 @@
 ms.ContentId: 526e4f1a-2936-4c61-b3be-d41b4cf9d10f
 title: About Windows Server Containers
 
-#Windows Server Containers
+# Windows Server Containers
 
 12-Nov update. Test updates for demo tomorrow! Applications fuel innovation in the cloud and mobile era. Containers, and the ecosystem that is developing around them, will empower software developers to create the next generation of applications experiences.
 
 Watch a short overview: [Windows-based containers: Modern app development with enterprise-grade control](https://youtu.be/Ryx3o0rD5lY).
+- [Microsoft.Clm.Provision.FindOperations.FindCertificates Method](https://msdn.microsoft.com/en-us/library/dd831853(v=vs.110))
 
-##What are containers?
+## What are containers?
 
 They are an isolated, resource controlled, and portable operating environment.
 
@@ -15,9 +16,9 @@ Basically, a container is an isolated place where an application can run without
 
 If you were inside a container, it would look very much like you were inside a freshly installed physical computer or a virtual machine. And, to [Docker](https://www.docker.com/), a Windows Server Container can be managed in the same way as any other container.
 
-##Container Fundamentals
+## Container Fundamentals
 
-When you begin working with containers you will notice many similarities between a container and a virtual machine. A container runs an operating system, has a file system and can be accessed over a network just as if it was a physical or virtual computer system. That said, the technology and concepts behind containers are very different from that of virtual machines.  
+When you begin working with containers you will notice many similarities between a container and a virtual machine. A container runs an operating system, has a file system and can be accessed over a network just as if it was a physical or virtual computer system. That said, the technology and concepts behind containers are very different from that of virtual machines.
 [This blog post](http://azure.microsoft.com/blog/2015/08/17/containers-docker-windows-and-trends/) by Mark Russinovich explains containers well.
 
 The following key concepts will be helpful as you begin creating and working with Windows Server Containers.
@@ -36,7 +37,7 @@ The following key concepts will be helpful as you begin creating and working wit
 
 <center>![](media/containerfund.png)</center>
 
-##Containers for Developers
+## Containers for Developers
 
 From a developer’s desktop to a testing machine to a set of production machines, a Docker image can be created that will deploy identically across any environment in seconds. This story has created a massive and growing ecosystem of applications packaged in Docker containers, with DockerHub, the public containerized-application registry that Docker maintains, currently publishing more than 180,000 applications in the public community repository.
 
@@ -48,20 +49,21 @@ With containers, developers can build an app in any language. These apps are com
 
 Containers helps developers build and ship higher-quality applications, faster.
 
-##Containers for IT Professionals
+## Containers for IT Professionals
 
 IT Professionals can use containers to provide standardized environments for their development, QA, and production teams. They no longer have to worry about complex installation and configuration steps. By using containers, systems administrators abstract away differences in OS installations and underlying infrastructure.
 
 Containers help admins create an infrastructure that is simpler to update and maintain.
 
-##Video Overview
+## Video Overview
 
-<iframe src="https://channel9.msdn.com/Blogs/containers/Containers-101-with-Microsoft-and-Docker/player" width="960" height="540" allowFullScreen="true" frameBorder="0" scrolling="no"></iframe>
+<iframe
+src="https://channel9.msdn.com/Blogs/containers/Containers-101-with-Microsoft-and-Docker/player" width="960" height="540" allowFullScreen="true" frameBorder="0" scrolling="no"></iframe>
 
 
-##Try Windows Server Containers
+## Try Windows Server Containers
 
-[Get started with Windows Server Containers in Windows Azure](../quick_start/azure_setup.md)  
+[Get started with Windows Server Containers in Windows Azure](../quick_start/azure_setup.md)
 [Get started with Windows Server Containers Locally](../quick_start/container_setup.md)
 
 -------------------
@@ -71,3 +73,4 @@ Containers help admins create an infrastructure that is simpler to update and ma
 
 
 
+<!--HONumber=Dec15_HO1-->
