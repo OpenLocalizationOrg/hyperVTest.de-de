@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "13bf665622f6f41c973c6653db028ab596781453",
-  "LastTranslatedCommit": "c587e37aef6167ceabbc4434e085131f6b41cef2",
+  "LastTranslatedCommit": "7a007db964ab940672f40fc960b30a95d802bf85",
   "Items": {
     "426af95d3f431c9a2bc4a8c5735a8109792a7b80": {
       "FileHash": "426af95d3f431c9a2bc4a8c5735a8109792a7b80",
@@ -3729,14 +3729,14 @@
       "HandoffDateTime": "2016-01-06T02:26:18.3775859Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "7a007db964ab940672f40fc960b30a95d802bf85",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\media\\Chat_65.png",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\f8028372876eb8d38fb4571b18bdc30585c95087.png",
+      "HandbackFileCommit": "35a3d1546becd5421070c8aded799678eb7bdb82",
+      "HandbackDateTime": "2016-01-11T08:40:38.3886578Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "2016-01-11T08:40:38.3886578Z"
     },
     "dae37299a5f0b070b495f82863583a38f3ac8860": {
       "FileHash": "dae37299a5f0b070b495f82863583a38f3ac8860",
@@ -3822,14 +3822,14 @@
       "HandoffDateTime": "2016-01-06T02:26:18.3775859Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "7a007db964ab940672f40fc960b30a95d802bf85",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\community_overview.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf",
+      "HandbackFileCommit": "35a3d1546becd5421070c8aded799678eb7bdb82",
+      "HandbackDateTime": "2016-01-11T08:40:38.3886578Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "2016-01-11T08:40:38.3886578Z"
     },
     "c994b027b6ba90d688904000e7aa283709915c03": {
       "FileHash": "c994b027b6ba90d688904000e7aa283709915c03",
@@ -3891,14 +3891,14 @@
       "HandoffDateTime": "2016-01-06T02:26:18.3775859Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "7a007db964ab940672f40fc960b30a95d802bf85",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\windows_welcome_new.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\windows_welcome_new.7f23ab90b609bd894e638ebac56e2bc04c35f245.de-de.xlf",
+      "HandbackFileCommit": "35a3d1546becd5421070c8aded799678eb7bdb82",
+      "HandbackDateTime": "2016-01-11T08:40:38.3886578Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "2016-01-11T08:40:38.3886578Z"
     },
     "2c4168559e894467d2db48659da146837b67fc38": {
       "FileHash": "2c4168559e894467d2db48659da146837b67fc38",
@@ -4122,14 +4122,14 @@
       "HandoffDateTime": "2015-12-01T00:41:21.5613781Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "7a007db964ab940672f40fc960b30a95d802bf85",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.de-de.xlf",
+      "HandbackFileCommit": "35a3d1546becd5421070c8aded799678eb7bdb82",
+      "HandbackDateTime": "2016-01-11T08:40:38.3886578Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "2016-01-11T08:40:38.3886578Z"
     },
     "02c14920a4ae5365a71d7ca1e43b1f7d5dccb85a": {
       "FileHash": "02c14920a4ae5365a71d7ca1e43b1f7d5dccb85a",
@@ -4145,14 +4145,14 @@
       "HandoffDateTime": "2016-01-06T02:26:18.3775859Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "7a007db964ab940672f40fc960b30a95d802bf85",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\remote_host_management.40d5636e508c5b95bb2917be75ca6b5aa426a915.de-de.xlf",
+      "HandbackFileCommit": "35a3d1546becd5421070c8aded799678eb7bdb82",
+      "HandbackDateTime": "2016-01-11T08:40:38.3886578Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "2016-01-11T08:40:38.3886578Z"
     },
     "c7baf8edb6c8fd627783b8da351f77f2b9957d7b": {
       "FileHash": "c7baf8edb6c8fd627783b8da351f77f2b9957d7b",
@@ -4168,14 +4168,14 @@
       "HandoffDateTime": "2015-12-01T00:41:21.5613781Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "7a007db964ab940672f40fc960b30a95d802bf85",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.de-de.xlf",
+      "HandbackFileCommit": "35a3d1546becd5421070c8aded799678eb7bdb82",
+      "HandbackDateTime": "2016-01-11T08:40:38.3886578Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "2016-01-11T08:40:38.3886578Z"
     },
     "b61f03ec234434bf2260ef1d706b60648d333f2b": {
       "FileHash": "b61f03ec234434bf2260ef1d706b60648d333f2b",
@@ -4237,14 +4237,14 @@
       "HandoffDateTime": "2015-12-03T17:55:32.2196399Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "7a007db964ab940672f40fc960b30a95d802bf85",
+      "TargetFilePath": "virtualization\\windowscontainers\\about\\about_overview.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.de-de.xlf",
+      "HandbackFileCommit": "35a3d1546becd5421070c8aded799678eb7bdb82",
+      "HandbackDateTime": "2016-01-11T08:40:38.3886578Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "2016-01-11T08:40:38.3886578Z"
     },
     "47df0521648aa201fe51d32cae3106500f417e91": {
       "FileHash": "47df0521648aa201fe51d32cae3106500f417e91",
@@ -4283,14 +4283,14 @@
       "HandoffDateTime": "2016-01-06T02:26:18.3775859Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "7a007db964ab940672f40fc960b30a95d802bf85",
+      "TargetFilePath": "virtualization\\community\\TOC.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.de-de.xlf",
+      "HandbackFileCommit": "35a3d1546becd5421070c8aded799678eb7bdb82",
+      "HandbackDateTime": "2016-01-11T08:40:38.3886578Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "2016-01-11T08:40:38.3886578Z"
     }
   }
 }
