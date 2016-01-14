@@ -31,8 +31,6 @@ Wenn nicht, Sie, die ISO für herunterladen können [Windows 8.1 Enterprise](htt
 
 [Schritt 5: Herstellen einer Verbindung mit dem virtuellen Computer, und schließen Sie die installation](walkthrough_vmconnect.md)
 
-中文 测试 手动fix
-
 
 
 
