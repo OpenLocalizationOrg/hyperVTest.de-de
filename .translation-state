@@ -269,7 +269,7 @@
       "HandoffDateTime": "2015-10-13T03:50:48.3469896Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": "84ee9119816a20ea3bcc6acf9879c7c275a29651",
+      "TargetFileCommit": "1f6979ff2e242be9c4c4635c2754513c6f311d05",
       "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\archive\\df858fce3585e102d26f467bca2b0755ecf24824.xlf",
       "HandbackFileCommit": "78c2cab96e4293ac9b921829de0ad6bafef49e55",
