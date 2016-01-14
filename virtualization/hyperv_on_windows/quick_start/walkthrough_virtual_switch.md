@@ -21,7 +21,7 @@ In dieser Übung durchlaufen Sie erstellen einen virtuellen Switch mit Vollzugri
 Nach Abschluss der Hyper-V-Host enthält einen virtuellen Switch, die mit dem virtuelle Computer mit einem physischen Netzwerk verbunden werden kann.
 
 
-1. Öffnen Sie den Hyper-V-Manager.
+1. 测试中文
     
 2. Der rechten Maustaste auf den Namen des Hyper-V-Hosts, und wählen Sie "Virtueller Switch-Manager".
     
