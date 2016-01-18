@@ -6,6 +6,8 @@
  Total Files | 257
 [ Handoff Failed Files ](#handoff-failed-list)| 0
 [ Handoff Success Files ](#handoff-success-list)| 0
+[ Archive Failed Files ](#archive-failed-list)| 0
+[ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 8
 [ In Sync Handback Files ](#insync-handback-success-list)| 34
@@ -13,7 +15,11 @@
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
-## <a name='handoff-success-list'></a> Handoff Sucess File List
+## <a name='handoff-success-list'></a> Handoff Success File List
+
+## <a name='archive-failed-list'></a> Archive Failed File List
+
+## <a name='archive-success-list'></a> Archive Success File List
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
@@ -293,6 +299,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -303,6 +311,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -313,6 +323,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -323,6 +335,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -333,6 +347,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -343,6 +359,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -353,6 +371,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -363,6 +383,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -373,6 +395,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -383,6 +407,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -393,6 +419,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -403,6 +431,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -413,6 +443,8 @@
 * Handoff File: [README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ac614cf907c2c53fef2f7433e591c66d4c65cefc/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/live/README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf)
 * Handoff Datetime: 2016-01-14 12:19:29
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [README.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/84ee9119816a20ea3bcc6acf9879c7c275a29651/README.md)
@@ -426,6 +458,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -436,6 +470,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -446,6 +482,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -456,6 +494,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -466,6 +506,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -476,6 +518,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -486,6 +530,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -496,6 +542,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -506,6 +554,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -516,6 +566,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -526,6 +578,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -536,6 +590,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -546,6 +602,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -556,6 +614,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -566,6 +626,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -576,6 +638,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -586,6 +650,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -596,6 +662,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -606,6 +674,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -616,6 +686,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -626,6 +698,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -636,6 +710,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -646,6 +722,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -656,6 +734,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -666,6 +746,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -676,6 +758,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -686,6 +770,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -696,6 +782,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -706,6 +794,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -716,6 +806,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -726,6 +818,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -736,6 +830,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -746,6 +842,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -756,6 +854,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -766,6 +866,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -776,6 +878,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -786,6 +890,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -796,6 +902,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -806,6 +914,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -816,6 +926,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -826,6 +938,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -836,6 +950,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -846,6 +962,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -856,6 +974,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -866,6 +986,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -876,6 +998,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -886,6 +1010,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -896,6 +1022,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -906,6 +1034,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -916,6 +1046,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -926,6 +1058,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -936,6 +1070,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -946,6 +1082,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -956,6 +1094,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -966,6 +1106,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -976,6 +1118,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -986,6 +1130,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -996,6 +1142,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1006,6 +1154,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1016,6 +1166,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1026,6 +1178,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1036,6 +1190,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1046,6 +1202,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1056,6 +1214,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1066,6 +1226,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1076,6 +1238,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1086,6 +1250,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1096,6 +1262,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1106,6 +1274,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1116,6 +1286,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1126,6 +1298,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1136,6 +1310,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1146,6 +1322,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1156,6 +1334,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1166,6 +1346,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1176,6 +1358,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1186,6 +1370,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1196,6 +1382,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1206,6 +1394,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1216,6 +1406,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1226,6 +1418,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1236,6 +1430,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1246,6 +1442,8 @@
 * Handoff File: [08796bf856b1936c65df41076765d9f33d79e268.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/08796bf856b1936c65df41076765d9f33d79e268.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [08796bf856b1936c65df41076765d9f33d79e268.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/08796bf856b1936c65df41076765d9f33d79e268.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -1256,6 +1454,8 @@
 * Handoff File: [TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ac614cf907c2c53fef2f7433e591c66d4c65cefc/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/live/TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.de-de.xlf)
 * Handoff Datetime: 2016-01-14 12:19:29
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/84ee9119816a20ea3bcc6acf9879c7c275a29651/virtualization/community/TOC.md)
@@ -1269,6 +1469,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1279,6 +1481,8 @@
 * Handoff File: [8c7bbfb4cce7933f3288aba80a80507b399ac776.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/8c7bbfb4cce7933f3288aba80a80507b399ac776.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [8c7bbfb4cce7933f3288aba80a80507b399ac776.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/8c7bbfb4cce7933f3288aba80a80507b399ac776.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -1289,6 +1493,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1299,6 +1505,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1309,6 +1517,8 @@
 * Handoff File: [2ad607964e95e5dc4570fd2fc1ce05f592bf08f0.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/2ad607964e95e5dc4570fd2fc1ce05f592bf08f0.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [2ad607964e95e5dc4570fd2fc1ce05f592bf08f0.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/2ad607964e95e5dc4570fd2fc1ce05f592bf08f0.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -1319,6 +1529,8 @@
 * Handoff File: [851345687639b6942357c4f7518a4fe528d952da.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/851345687639b6942357c4f7518a4fe528d952da.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [851345687639b6942357c4f7518a4fe528d952da.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/851345687639b6942357c4f7518a4fe528d952da.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -1329,6 +1541,8 @@
 * Handoff File: [e619d100df5a48af0729a7267eb416810cefcb98.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/e619d100df5a48af0729a7267eb416810cefcb98.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [e619d100df5a48af0729a7267eb416810cefcb98.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/e619d100df5a48af0729a7267eb416810cefcb98.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -1339,6 +1553,8 @@
 * Handoff File: [1e570b48f01ed63333705d5da5031bc706a67a94.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/1e570b48f01ed63333705d5da5031bc706a67a94.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [1e570b48f01ed63333705d5da5031bc706a67a94.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/1e570b48f01ed63333705d5da5031bc706a67a94.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -1349,6 +1565,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1359,6 +1577,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1369,6 +1589,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1379,6 +1601,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1389,6 +1613,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1399,6 +1625,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1409,6 +1637,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1419,6 +1649,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1429,6 +1661,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1439,6 +1673,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1449,6 +1685,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1459,6 +1697,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1469,6 +1709,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1479,6 +1721,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1489,6 +1733,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1499,6 +1745,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1509,6 +1757,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1519,6 +1769,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1529,6 +1781,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1539,6 +1793,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1549,6 +1805,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1559,6 +1817,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1569,6 +1829,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1579,6 +1841,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1589,6 +1853,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1599,6 +1865,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1609,6 +1877,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1619,6 +1889,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1629,6 +1901,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1639,6 +1913,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1649,6 +1925,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1659,6 +1937,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1669,6 +1949,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1679,6 +1961,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1689,6 +1973,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1699,6 +1985,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1709,6 +1997,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1719,6 +2009,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1729,6 +2021,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1739,6 +2033,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1749,6 +2045,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1759,6 +2057,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1769,6 +2069,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1779,6 +2081,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1789,6 +2093,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1799,6 +2105,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1809,6 +2117,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1819,6 +2129,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1829,6 +2141,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1839,6 +2153,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1849,6 +2165,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1859,6 +2177,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1869,6 +2189,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1879,6 +2201,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1889,6 +2213,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1899,6 +2225,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1909,6 +2237,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1919,6 +2249,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1929,6 +2261,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1939,6 +2273,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1949,6 +2285,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1959,6 +2297,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1969,6 +2309,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1979,6 +2321,8 @@
 * Handoff File: [822e6cee5989d29adf7c12b0b37cbdf01a96c88c.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/822e6cee5989d29adf7c12b0b37cbdf01a96c88c.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [822e6cee5989d29adf7c12b0b37cbdf01a96c88c.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/822e6cee5989d29adf7c12b0b37cbdf01a96c88c.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -1989,6 +2333,8 @@
 * Handoff File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/093b2824f2f520df5b94a8026def09ee0f9e8db7/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/live/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf)
 * Handoff Datetime: 2016-01-14 13:29:17
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/84ee9119816a20ea3bcc6acf9879c7c275a29651/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
@@ -2002,6 +2348,8 @@
 * Handoff File: [walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ac614cf907c2c53fef2f7433e591c66d4c65cefc/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/live/walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.de-de.xlf)
 * Handoff Datetime: 2016-01-14 12:19:29
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_compatibility.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/84ee9119816a20ea3bcc6acf9879c7c275a29651/virtualization/hyperv_on_windows/quick_start/walkthrough_compatibility.md)
@@ -2015,6 +2363,8 @@
 * Handoff File: [df858fce3585e102d26f467bca2b0755ecf24824.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/df858fce3585e102d26f467bca2b0755ecf24824.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [df858fce3585e102d26f467bca2b0755ecf24824.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/df858fce3585e102d26f467bca2b0755ecf24824.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2025,6 +2375,8 @@
 * Handoff File: [c7cd0b188097b46f0895b2b34d1cc7ecde2c82a0.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/c7cd0b188097b46f0895b2b34d1cc7ecde2c82a0.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [c7cd0b188097b46f0895b2b34d1cc7ecde2c82a0.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/c7cd0b188097b46f0895b2b34d1cc7ecde2c82a0.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2035,6 +2387,8 @@
 * Handoff File: [walkthrough_install.775f3dd3ffd893bcec04436e9648ed46ba3e501e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ac614cf907c2c53fef2f7433e591c66d4c65cefc/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/live/walkthrough_install.775f3dd3ffd893bcec04436e9648ed46ba3e501e.de-de.xlf)
 * Handoff Datetime: 2016-01-14 12:19:29
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_install.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/84ee9119816a20ea3bcc6acf9879c7c275a29651/virtualization/hyperv_on_windows/quick_start/walkthrough_install.md)
@@ -2048,6 +2402,8 @@
 * Handoff File: [c4de8b5d9db23b19bec5e07cdb1a7f91e9cfb191.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/c4de8b5d9db23b19bec5e07cdb1a7f91e9cfb191.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [c4de8b5d9db23b19bec5e07cdb1a7f91e9cfb191.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/c4de8b5d9db23b19bec5e07cdb1a7f91e9cfb191.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2058,6 +2414,8 @@
 * Handoff File: [walkthrough_virtual_switch.27dde78ebf41bbbdb946f00af1eb221b79cbb05a.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ac614cf907c2c53fef2f7433e591c66d4c65cefc/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/live/walkthrough_virtual_switch.27dde78ebf41bbbdb946f00af1eb221b79cbb05a.de-de.xlf)
 * Handoff Datetime: 2016-01-14 12:19:29
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/84ee9119816a20ea3bcc6acf9879c7c275a29651/virtualization/hyperv_on_windows/quick_start/walkthrough_virtual_switch.md)
@@ -2071,6 +2429,8 @@
 * Handoff File: [64d931f0509211ef361f5e86225a53ab5fdd9131.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/64d931f0509211ef361f5e86225a53ab5fdd9131.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [64d931f0509211ef361f5e86225a53ab5fdd9131.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/64d931f0509211ef361f5e86225a53ab5fdd9131.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2081,6 +2441,8 @@
 * Handoff File: [dbc749a61f352dc78621c582e6d5c1807eb00c6a.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/dbc749a61f352dc78621c582e6d5c1807eb00c6a.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dbc749a61f352dc78621c582e6d5c1807eb00c6a.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/dbc749a61f352dc78621c582e6d5c1807eb00c6a.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2091,6 +2453,8 @@
 * Handoff File: [9e94b37091423c59cd9ac3d2ed81e02e0226ec49.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/9e94b37091423c59cd9ac3d2ed81e02e0226ec49.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [9e94b37091423c59cd9ac3d2ed81e02e0226ec49.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/9e94b37091423c59cd9ac3d2ed81e02e0226ec49.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2101,6 +2465,8 @@
 * Handoff File: [55744774ff20c1dd435f1d7ca0eafb3332b201f3.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/55744774ff20c1dd435f1d7ca0eafb3332b201f3.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [55744774ff20c1dd435f1d7ca0eafb3332b201f3.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/55744774ff20c1dd435f1d7ca0eafb3332b201f3.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2111,6 +2477,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2121,6 +2489,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2131,6 +2501,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2141,6 +2513,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2151,6 +2525,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2161,6 +2537,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2171,6 +2549,8 @@
 * Handoff File: [4230e3947db642bf5c520ef9e32130b41e4ab3fa.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/4230e3947db642bf5c520ef9e32130b41e4ab3fa.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [4230e3947db642bf5c520ef9e32130b41e4ab3fa.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/4230e3947db642bf5c520ef9e32130b41e4ab3fa.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2181,6 +2561,8 @@
 * Handoff File: [a74f3687bd3a1fe2b92bf8424df6957c6b223aa4.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/a74f3687bd3a1fe2b92bf8424df6957c6b223aa4.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [a74f3687bd3a1fe2b92bf8424df6957c6b223aa4.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/a74f3687bd3a1fe2b92bf8424df6957c6b223aa4.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2191,6 +2573,8 @@
 * Handoff File: [d772ee3e60961445f6ad27f6d2e2f14678d990e1.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/d772ee3e60961445f6ad27f6d2e2f14678d990e1.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [d772ee3e60961445f6ad27f6d2e2f14678d990e1.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/d772ee3e60961445f6ad27f6d2e2f14678d990e1.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2201,6 +2585,8 @@
 * Handoff File: [c9963491668f14ebc3a62e3d8e0d43d744a1d341.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/c9963491668f14ebc3a62e3d8e0d43d744a1d341.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [c9963491668f14ebc3a62e3d8e0d43d744a1d341.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/c9963491668f14ebc3a62e3d8e0d43d744a1d341.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2211,6 +2597,8 @@
 * Handoff File: [2630f2629bf19ce887b373fcbd3bc26fe879d061.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/2630f2629bf19ce887b373fcbd3bc26fe879d061.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [2630f2629bf19ce887b373fcbd3bc26fe879d061.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/2630f2629bf19ce887b373fcbd3bc26fe879d061.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2221,6 +2609,8 @@
 * Handoff File: [2ab22bc1342caf5d48b296ed54a5d76ea1648326.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/2ab22bc1342caf5d48b296ed54a5d76ea1648326.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [2ab22bc1342caf5d48b296ed54a5d76ea1648326.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/2ab22bc1342caf5d48b296ed54a5d76ea1648326.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2231,6 +2621,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2241,6 +2633,8 @@
 * Handoff File: [1cd230752f52bb9786821493df48c8a5a2a2f903.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/1cd230752f52bb9786821493df48c8a5a2a2f903.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [1cd230752f52bb9786821493df48c8a5a2a2f903.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/1cd230752f52bb9786821493df48c8a5a2a2f903.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2251,6 +2645,8 @@
 * Handoff File: [6c0ebd80ac08763eafebe935b08194a526ad59fa.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/6c0ebd80ac08763eafebe935b08194a526ad59fa.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [6c0ebd80ac08763eafebe935b08194a526ad59fa.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/6c0ebd80ac08763eafebe935b08194a526ad59fa.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2261,6 +2657,8 @@
 * Handoff File: [f176f83a5f5bc76e32b5687866d2ced7d0a91d57.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/f176f83a5f5bc76e32b5687866d2ced7d0a91d57.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [f176f83a5f5bc76e32b5687866d2ced7d0a91d57.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/f176f83a5f5bc76e32b5687866d2ced7d0a91d57.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2271,6 +2669,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2281,6 +2681,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2291,6 +2693,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2301,6 +2705,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2311,6 +2717,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2321,6 +2729,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2331,6 +2741,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2341,6 +2753,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2351,6 +2765,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2361,6 +2777,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2371,6 +2789,8 @@
 * Handoff File: [090e2dccc937df4c7a80f63b447cb733af5020a3.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/090e2dccc937df4c7a80f63b447cb733af5020a3.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [090e2dccc937df4c7a80f63b447cb733af5020a3.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/090e2dccc937df4c7a80f63b447cb733af5020a3.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2381,6 +2801,8 @@
 * Handoff File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ac614cf907c2c53fef2f7433e591c66d4c65cefc/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/live/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf)
 * Handoff Datetime: 2016-01-14 12:19:29
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/84ee9119816a20ea3bcc6acf9879c7c275a29651/virtualization/windowscontainers/containers_welcome.md)
@@ -2394,6 +2816,8 @@
 * Handoff File: [EULA.0ba9560e121100b89b5825e4c97105b9c4695644.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ac614cf907c2c53fef2f7433e591c66d4c65cefc/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/live/EULA.0ba9560e121100b89b5825e4c97105b9c4695644.de-de.xlf)
 * Handoff Datetime: 2016-01-14 12:19:29
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/84ee9119816a20ea3bcc6acf9879c7c275a29651/virtualization/windowscontainers/EULA.md)
@@ -2407,6 +2831,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2417,6 +2843,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2427,6 +2855,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2437,6 +2867,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2447,6 +2879,8 @@
 * Handoff File: [d82cfc8ade5b456e690bd35933eb2b939a4ed847.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/d82cfc8ade5b456e690bd35933eb2b939a4ed847.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [d82cfc8ade5b456e690bd35933eb2b939a4ed847.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/215a6031ec0e93c4b0b1e014261a94e664b26843/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/d82cfc8ade5b456e690bd35933eb2b939a4ed847.xlf)
 * Handback Datetime: 2015-10-13 06:39:36
 * [Back to Top](#report-top)
@@ -2457,6 +2891,8 @@
 * Handoff File: [bca267ee574504e3cb6d2c42f2aa095a3ace3619.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/bca267ee574504e3cb6d2c42f2aa095a3ace3619.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [bca267ee574504e3cb6d2c42f2aa095a3ace3619.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/bca267ee574504e3cb6d2c42f2aa095a3ace3619.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2467,6 +2903,8 @@
 * Handoff File: [8ff71abc14066d1fcaf3324d44c3e6be492a93cc.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/8ff71abc14066d1fcaf3324d44c3e6be492a93cc.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [8ff71abc14066d1fcaf3324d44c3e6be492a93cc.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/8ff71abc14066d1fcaf3324d44c3e6be492a93cc.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2477,6 +2915,8 @@
 * Handoff File: [c0fc8a8c7da42ab56f16e38c567254338f693653.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/c0fc8a8c7da42ab56f16e38c567254338f693653.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [c0fc8a8c7da42ab56f16e38c567254338f693653.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/c0fc8a8c7da42ab56f16e38c567254338f693653.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2487,6 +2927,8 @@
 * Handoff File: [2f9c7f95a4e72adc022197ab57bc701ad4ba9e4a.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/2f9c7f95a4e72adc022197ab57bc701ad4ba9e4a.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [2f9c7f95a4e72adc022197ab57bc701ad4ba9e4a.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/2f9c7f95a4e72adc022197ab57bc701ad4ba9e4a.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2497,6 +2939,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2507,6 +2951,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2517,6 +2963,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2527,6 +2975,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2537,6 +2987,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2547,6 +2999,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2557,6 +3011,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2567,6 +3023,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2577,6 +3035,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2587,6 +3047,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2597,6 +3059,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2607,6 +3071,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2617,6 +3083,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2627,6 +3095,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2637,6 +3107,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2647,6 +3119,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2657,6 +3131,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2667,6 +3143,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2677,6 +3155,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2687,6 +3167,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2697,6 +3179,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2707,6 +3191,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2717,6 +3203,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2727,6 +3215,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2737,6 +3227,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2747,6 +3239,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2757,6 +3251,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2767,6 +3263,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2777,6 +3275,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2787,6 +3287,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2797,6 +3299,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2807,6 +3311,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2817,6 +3323,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2827,6 +3335,8 @@
 * Handoff File: [8c1510a894cbdfdb23c23ecdeeeedb2197e43c63.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/8c1510a894cbdfdb23c23ecdeeeedb2197e43c63.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [8c1510a894cbdfdb23c23ecdeeeedb2197e43c63.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/8c1510a894cbdfdb23c23ecdeeeedb2197e43c63.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2837,6 +3347,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -2847,6 +3359,8 @@
 * Handoff File: [a80e3c491fbd6c71380e1d8dc3589fc28c2b8caf.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/a80e3c491fbd6c71380e1d8dc3589fc28c2b8caf.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [a80e3c491fbd6c71380e1d8dc3589fc28c2b8caf.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/a80e3c491fbd6c71380e1d8dc3589fc28c2b8caf.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2857,6 +3371,8 @@
 * Handoff File: [041b88830b633f85459d3b5be24b0d68ba8071bd.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/041b88830b633f85459d3b5be24b0d68ba8071bd.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [041b88830b633f85459d3b5be24b0d68ba8071bd.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/041b88830b633f85459d3b5be24b0d68ba8071bd.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2867,6 +3383,8 @@
 * Handoff File: [a9225b180b1df05d803b0ba2f23be237d7176f4d.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/a9225b180b1df05d803b0ba2f23be237d7176f4d.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [a9225b180b1df05d803b0ba2f23be237d7176f4d.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/a9225b180b1df05d803b0ba2f23be237d7176f4d.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
@@ -2877,6 +3395,8 @@
 * Handoff File: [c9a613b41195c01471a39d59e0fccdb2e226b08a.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3e76b216e4a8471c88c1d120c72cd0d5e0147054/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/c9a613b41195c01471a39d59e0fccdb2e226b08a.xlf)
 * Handoff Datetime: 2015-10-13 03:50:48
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [c9a613b41195c01471a39d59e0fccdb2e226b08a.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/c9a613b41195c01471a39d59e0fccdb2e226b08a.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
 * [Back to Top](#report-top)
