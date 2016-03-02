@@ -1505,7 +1505,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [virtualization\hyperv_on_windows\about\supported_guest_os.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/085689d595eee0df48e98ba5705ebc409dbe2533/virtualization/hyperv_on_windows/about/supported_guest_os.md)
 * Current Handback File: [supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.de-de.xlf)
-* Current Handback Datetime: 2016-03-02 01:27:05
+* Current Handback Datetime: 2016-03-02 01:36:34
 * [Back to Top](#report-top)
 
 ##### <a name='e16d508640119c3960e875aaa3b3c1ce48d7bfc6100'></a> Source: [virtualization\hyperv_on_windows\about\whats_new_nov.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/eee725a2fe34a445fba0ea78147f38f53eb4a6e6/virtualization/hyperv_on_windows/about/whats_new_nov.md)
