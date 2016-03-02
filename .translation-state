@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "a240b307721af45650e08b06cd1ca099b2460c48",
-  "LastTranslatedCommit": "7a007db964ab940672f40fc960b30a95d802bf85",
+  "LastTranslatedCommit": "3bd48bed852ed8c651ff7dae2fd4c95e520323e2",
   "Items": {
     "426af95d3f431c9a2bc4a8c5735a8109792a7b80": {
       "FileHash": "426af95d3f431c9a2bc4a8c5735a8109792a7b80",
@@ -3833,9 +3833,17 @@
       "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.de-de.xlf",
       "HandbackFileCommit": "63df763b2c1030af861707aef1788516148286cf",
-      "HandbackDateTime": "2015-11-13T04:43:07.7051704Z",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-03-02T00:37:06.6746498Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.ja-jp is different with handoff file name: walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.ja-jp is different with handoff file name: walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "2015-11-13T04:43:07.7051704Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
