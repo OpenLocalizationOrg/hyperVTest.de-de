@@ -1,11 +1,29 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\hyperv_on_windows\develop\make_mgmt_service_test.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ba05c6e4143e082c51e4a91c72e78cf2052935ec/virtualization/hyperv_on_windows/develop/make_mgmt_service_test.md) | OutofSyncHandedBackSuccess | [Details](#e437baf1f27bb8d500d2db065f8284cc065e26a6103)
 
 ## Item Details
+##### <a name='e437baf1f27bb8d500d2db065f8284cc065e26a6103'></a> Source: [virtualization\hyperv_on_windows\develop\make_mgmt_service_test.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ba05c6e4143e082c51e4a91c72e78cf2052935ec/virtualization/hyperv_on_windows/develop/make_mgmt_service_test.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [make_mgmt_service_test.60a5f6ea8f560d274fd98affacf2a5f9da3137f1.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/747bee83d3492a408b2c762af33077a1ec75914c/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/make_mgmt_service_test.60a5f6ea8f560d274fd98affacf2a5f9da3137f1.de-de.xlf)
+* Handoff Datetime: 2016-03-02 19:17:32
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [virtualization\hyperv_on_windows\develop\make_mgmt_service_test.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/59e37b3d6e46c89ef12fa3c3175edeaa504ff718/virtualization/hyperv_on_windows/develop/make_mgmt_service_test.md)
+* Current Handback File: [make_mgmt_service.f08a72226cda804bf52172777630838cf58daa2b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/f18ac0b6d2ac05c94ba5fa15ec0eb4872f6ecabe/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/make_mgmt_service.f08a72226cda804bf52172777630838cf58daa2b.de-de.xlf)
+* Current Handback Datetime: 2015-11-19 06:56:34
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
