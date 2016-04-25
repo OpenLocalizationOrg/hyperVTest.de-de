@@ -6,22 +6,19 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [README.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/d39eed5c7dc4a13d7e4bcbda4ea4ffa14ce68ca3/README.md) | OutofSyncHandedBackSuccess | [Details](#d6a08817ae44d1406bb13603138aed015ca0f7ef12)
+ [Hyper-V\albina\Exclude.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a0033bd4839c03222c7191aab02a9962eaeac3e2/Hyper-V/albina/Exclude.md) | HandedOffSuccess | [Details](#b21bad121bd37d4d290cce17134f5994adbdd54d7)
 
 ## Item Details
-##### <a name='d6a08817ae44d1406bb13603138aed015ca0f7ef12'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/d39eed5c7dc4a13d7e4bcbda4ea4ffa14ce68ca3/README.md)
-* Status: OutofSyncHandedBackSuccess
+##### <a name='b21bad121bd37d4d290cce17134f5994adbdd54d7'></a> Source: [Hyper-V\albina\Exclude.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a0033bd4839c03222c7191aab02a9962eaeac3e2/Hyper-V/albina/Exclude.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/266826f8b992f98947a15b0f083dc4e833dafb1f/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf)
-* Handoff Datetime: 2016-04-25 19:03:45
+* Handoff File: [Exclude.bf8a0964704e8103d733b6103e138a69fdc8e032.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/10d0a70a04fdf02525a57209b41f7d654368ded8/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/Exclude.bf8a0964704e8103d733b6103e138a69fdc8e032.de-de.xlf)
+* Handoff Datetime: 2016-04-25 19:13:10
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [README.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/224126252ea10ae7f86c6270b08cff55c2e1f4aa/README.md)
-* Current Handback File: [README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/3548403c667d0ff4bb8fc8238d0694f4e5686caa/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf)
-* Current Handback Datetime: 2015-10-28 04:44:05
 * [Back to Top](#report-top)
 
 
