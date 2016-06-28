@@ -479,6 +479,8 @@
 * Current Target File: [README.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/224126252ea10ae7f86c6270b08cff55c2e1f4aa/README.md)
 * Current Handback File: [README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/3548403c667d0ff4bb8fc8238d0694f4e5686caa/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf)
 * Current Handback Datetime: 2015-10-28 04:44:05
+* Bilingual File: [README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/3548403c667d0ff4bb8fc8238d0694f4e5686caa/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='22ed0b2b479f91eecc1775eba7f4ac062cdfe3a614'></a> Source: [Tools\container_glyphs\Container Glyfs Release 3.pptx](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/Tools/container_glyphs/Container%20Glyfs%20Release%203.pptx)
@@ -1487,6 +1489,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.de-de.xlf)
 * Handback Datetime: 2016-01-11 08:40:38
+* Bilingual File: [TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed098'></a> Source: [virtualization\hyperv_on_windows\about\media\ProductionCheckpoints.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/virtualization/hyperv_on_windows/about/media/ProductionCheckpoints.png)
@@ -1526,6 +1530,8 @@
 * Current Target File: [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/24f367a875f798769057d4c14c4783f0c01208bd/virtualization/hyperv_on_windows/about/powershell_snippets_new.md)
 * Current Handback File: [powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/a7fe7f0c6147587006fbad28fee1202c6993b85e/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.de-de.xlf)
 * Current Handback Datetime: 2015-11-23 17:52:08
+* Bilingual File: [powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/a7fe7f0c6147587006fbad28fee1202c6993b85e/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='30fdbdfbb66dcd22dd166646edc857724979376a101'></a> Source: [virtualization\hyperv_on_windows\about\supported_guest_ms.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/f5ee4c9cdb3aecdece5074ce0653b76549b54c00/virtualization/hyperv_on_windows/about/supported_guest_ms.md)
@@ -1538,6 +1544,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Bilingual File: [supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='e16d508640119c3960e875aaa3b3c1ce48d7bfc6102'></a> Source: [virtualization\hyperv_on_windows\about\whats_new_nov.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/c4f9a1ec2eb07475db76c71b7d8a522f0f32a26d/virtualization/hyperv_on_windows/about/whats_new_nov.md)
@@ -1550,6 +1558,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [whats_new.dae7a7074466e85ccbefc13ff0f5e799912523e9.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/whats_new.dae7a7074466e85ccbefc13ff0f5e799912523e9.de-de.xlf)
 * Handback Datetime: 2015-11-13 04:43:07
+* Bilingual File: [whats_new.dae7a7074466e85ccbefc13ff0f5e799912523e9.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/whats_new.dae7a7074466e85ccbefc13ff0f5e799912523e9.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='6a7fe2fcc4da2d0197168b23ddf7e8b804d5ba97103'></a> Source: [virtualization\hyperv_on_windows\checkpoints_TEST](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/virtualization/hyperv_on_windows/checkpoints_TEST)
@@ -1577,6 +1587,8 @@
 * Current Target File: [virtualization\hyperv_on_windows\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/7a007db964ab940672f40fc960b30a95d802bf85/virtualization/hyperv_on_windows/community_overview.md)
 * Current Handback File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf)
 * Current Handback Datetime: 2016-01-11 08:40:38
+* Bilingual File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='f1c960042aeca4ef7c858c8b854aa0bf278fac0b105'></a> Source: [virtualization\hyperv_on_windows\develop\make_mgmt_service_test.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/44f886ded1508add732e1f27bdeacda43df35c5c/virtualization/hyperv_on_windows/develop/make_mgmt_service_test.md)
@@ -1592,6 +1604,8 @@
 * Current Target File: [virtualization\hyperv_on_windows\develop\make_mgmt_service_test.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/59e37b3d6e46c89ef12fa3c3175edeaa504ff718/virtualization/hyperv_on_windows/develop/make_mgmt_service_test.md)
 * Current Handback File: [make_mgmt_service.f08a72226cda804bf52172777630838cf58daa2b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/f18ac0b6d2ac05c94ba5fa15ec0eb4872f6ecabe/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/make_mgmt_service.f08a72226cda804bf52172777630838cf58daa2b.de-de.xlf)
 * Current Handback Datetime: 2015-11-19 06:56:34
+* Bilingual File: [make_mgmt_service.f08a72226cda804bf52172777630838cf58daa2b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/f18ac0b6d2ac05c94ba5fa15ec0eb4872f6ecabe/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/make_mgmt_service.f08a72226cda804bf52172777630838cf58daa2b.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='360b3c1279ae100996ef862613d60953795f2843106'></a> Source: [virtualization\hyperv_on_windows\docfx.json](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/virtualization/hyperv_on_windows/docfx.json)
@@ -2504,6 +2518,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [walkthrough.479a697a5c0e6d13e1bbfafdcd36fe03e025a38d.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough.479a697a5c0e6d13e1bbfafdcd36fe03e025a38d.de-de.xlf)
 * Handback Datetime: 2015-11-13 04:43:07
+* Bilingual File: [walkthrough.479a697a5c0e6d13e1bbfafdcd36fe03e025a38d.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough.479a697a5c0e6d13e1bbfafdcd36fe03e025a38d.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='5d6cb109a4da839670b5e2f494a8d7302baa4e2e178'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/2bb36be503f6cf089844eebf3081f2c32f9890b1/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
@@ -2516,6 +2532,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/f49b51406640a80d614baf3ce48728f13d5a28ea/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf)
 * Handback Datetime: 2015-11-24 00:18:10
+* Bilingual File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/f49b51406640a80d614baf3ce48728f13d5a28ea/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='c7baf8edb6c8fd627783b8da351f77f2b9957d7b179'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_compatibility.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ca5b7fdd4f1259595fc0fe17cb69464c390af896/virtualization/hyperv_on_windows/quick_start/walkthrough_compatibility.md)
@@ -2528,6 +2546,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.de-de.xlf)
 * Handback Datetime: 2016-01-11 08:40:38
+* Bilingual File: [walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='0e41ea622ba8163d206407cb4fe455084aa4a536180'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/78a41df59bd72682c55e25368f076eb77e07f7ec/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md)
@@ -2540,6 +2560,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Bilingual File: [walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='53d997b02de228f6adadd28a761ddfc313d31b17181'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_export_import.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/00ed25d3377acdc37a67824a450d1e1bb0a07773/virtualization/hyperv_on_windows/quick_start/walkthrough_export_import.md)
@@ -2552,6 +2574,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [walkthrough_export_import.357da837e16b81b7e63ec02325c79b3b0eb2e511.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_export_import.357da837e16b81b7e63ec02325c79b3b0eb2e511.de-de.xlf)
 * Handback Datetime: 2015-11-13 04:43:07
+* Bilingual File: [walkthrough_export_import.357da837e16b81b7e63ec02325c79b3b0eb2e511.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_export_import.357da837e16b81b7e63ec02325c79b3b0eb2e511.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='4cc306b2a660677961443d3cf14f442ad126913c182'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_install.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/6f34593856474ea8730865a61cfa77142035962c/virtualization/hyperv_on_windows/quick_start/walkthrough_install.md)
@@ -2567,6 +2591,8 @@
 * Current Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_install.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/085689d595eee0df48e98ba5705ebc409dbe2533/virtualization/hyperv_on_windows/quick_start/walkthrough_install.md)
 * Current Handback File: [walkthrough_install.775f3dd3ffd893bcec04436e9648ed46ba3e501e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_install.775f3dd3ffd893bcec04436e9648ed46ba3e501e.de-de.xlf)
 * Current Handback Datetime: 2015-11-13 04:43:07
+* Bilingual File: [walkthrough_install.775f3dd3ffd893bcec04436e9648ed46ba3e501e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_install.775f3dd3ffd893bcec04436e9648ed46ba3e501e.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='2c9a0afa2f41f5f42297cdf0a42792929cd1b88d183'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_powershell.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/d66e8e2881ddac825cd5d65019534177110d892f/virtualization/hyperv_on_windows/quick_start/walkthrough_powershell.md)
@@ -2579,6 +2605,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [walkthrough_powershell.f20d7c387d05f1e6da38e694c8255c1b0044b10b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_powershell.f20d7c387d05f1e6da38e694c8255c1b0044b10b.de-de.xlf)
 * Handback Datetime: 2015-11-13 04:43:07
+* Bilingual File: [walkthrough_powershell.f20d7c387d05f1e6da38e694c8255c1b0044b10b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_powershell.f20d7c387d05f1e6da38e694c8255c1b0044b10b.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='3f2357977192ed1db4c48bb4870fcf0db206ce0d184'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/00ed25d3377acdc37a67824a450d1e1bb0a07773/virtualization/hyperv_on_windows/quick_start/walkthrough_virtual_switch.md)
@@ -2591,6 +2619,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [walkthrough_virtual_switch.27dde78ebf41bbbdb946f00af1eb221b79cbb05a.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_virtual_switch.27dde78ebf41bbbdb946f00af1eb221b79cbb05a.de-de.xlf)
 * Handback Datetime: 2015-11-13 04:43:07
+* Bilingual File: [walkthrough_virtual_switch.27dde78ebf41bbbdb946f00af1eb221b79cbb05a.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_virtual_switch.27dde78ebf41bbbdb946f00af1eb221b79cbb05a.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='02927b9afe352496022cf433caf905a68396fdf9185'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/00ed25d3377acdc37a67824a450d1e1bb0a07773/virtualization/hyperv_on_windows/quick_start/walkthrough_vmconnect.md)
@@ -2603,6 +2633,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [walkthrough_vmconnect.4c24d05a20fdddbc9d4d3c09f3b483c6fb9fc9e9.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_vmconnect.4c24d05a20fdddbc9d4d3c09f3b483c6fb9fc9e9.de-de.xlf)
 * Handback Datetime: 2015-11-13 04:43:07
+* Bilingual File: [walkthrough_vmconnect.4c24d05a20fdddbc9d4d3c09f3b483c6fb9fc9e9.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_vmconnect.4c24d05a20fdddbc9d4d3c09f3b483c6fb9fc9e9.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='d8a4692ec68e58781b25eea1753a7c356b40763f186'></a> Source: [virtualization\hyperv_on_windows\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/3745d9afabada7419484c18a402249c8926ddec4/virtualization/hyperv_on_windows/TOC.md)
@@ -2615,6 +2647,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/3548403c667d0ff4bb8fc8238d0694f4e5686caa/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.de-de.xlf)
 * Handback Datetime: 2015-10-28 04:44:05
+* Bilingual File: [TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/3548403c667d0ff4bb8fc8238d0694f4e5686caa/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='d3d7ac429dcb0a53b3a1e9d6b5f494fb16dd149a187'></a> Source: [virtualization\hyperv_on_windows\user_guide\checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/68051fa0471cc3832b44697298712ecaaded094b/virtualization/hyperv_on_windows/user_guide/checkpoints.md)
@@ -2627,6 +2661,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.de-de.xlf)
 * Handback Datetime: 2016-01-11 08:40:38
+* Bilingual File: [checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='5124dddf1751ef0016dcd32ae0611e81612d7ff7188'></a> Source: [virtualization\hyperv_on_windows\user_guide\export_import.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/00ed25d3377acdc37a67824a450d1e1bb0a07773/virtualization/hyperv_on_windows/user_guide/export_import.md)
@@ -2639,6 +2675,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [export_import.c0c14674ac282e57d9bff1c585b3081c9fcc2b14.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/export_import.c0c14674ac282e57d9bff1c585b3081c9fcc2b14.de-de.xlf)
 * Handback Datetime: 2015-11-13 04:43:07
+* Bilingual File: [export_import.c0c14674ac282e57d9bff1c585b3081c9fcc2b14.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/export_import.c0c14674ac282e57d9bff1c585b3081c9fcc2b14.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='e4bd46363518215cafab94f61cd83be673624f7e189'></a> Source: [virtualization\hyperv_on_windows\user_guide\media\EnterCreds.PNG](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/virtualization/hyperv_on_windows/user_guide/media/EnterCreds.PNG)
@@ -2727,6 +2765,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [migrating_vms.c3ab6f486125abf75758937dd83afe9f4e332b1b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5411bfc5c9a1012cfb55749b147fb6b8ac5ea013/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/migrating_vms.c3ab6f486125abf75758937dd83afe9f4e332b1b.de-de.xlf)
 * Handback Datetime: 2015-11-07 01:03:22
+* Bilingual File: [migrating_vms.c3ab6f486125abf75758937dd83afe9f4e332b1b.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5411bfc5c9a1012cfb55749b147fb6b8ac5ea013/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/migrating_vms.c3ab6f486125abf75758937dd83afe9f4e332b1b.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='02c14920a4ae5365a71d7ca1e43b1f7d5dccb85a196'></a> Source: [virtualization\hyperv_on_windows\user_guide\remote_host_management.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/68051fa0471cc3832b44697298712ecaaded094b/virtualization/hyperv_on_windows/user_guide/remote_host_management.md)
@@ -2739,6 +2779,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [remote_host_management.40d5636e508c5b95bb2917be75ca6b5aa426a915.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/remote_host_management.40d5636e508c5b95bb2917be75ca6b5aa426a915.de-de.xlf)
 * Handback Datetime: 2016-01-11 08:40:38
+* Bilingual File: [remote_host_management.40d5636e508c5b95bb2917be75ca6b5aa426a915.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/remote_host_management.40d5636e508c5b95bb2917be75ca6b5aa426a915.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='4f51544b66ecdbc1d1a29f0c8834c93f58eba5b0197'></a> Source: [virtualization\hyperv_on_windows\user_guide\SonjaTestFile](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/virtualization/hyperv_on_windows/user_guide/SonjaTestFile)
@@ -2775,6 +2817,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [troubleshooting.551250f086d151b3edaaeda1dd07411092c8b348.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/troubleshooting.551250f086d151b3edaaeda1dd07411092c8b348.de-de.xlf)
 * Handback Datetime: 2015-11-13 04:43:07
+* Bilingual File: [troubleshooting.551250f086d151b3edaaeda1dd07411092c8b348.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/troubleshooting.551250f086d151b3edaaeda1dd07411092c8b348.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='db77e9f2ec6cc92c80b10e8894c373af403731bb200'></a> Source: [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/8698a5d457c7689ef96f0ab8ca2891866bd4f5ea/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md)
@@ -2787,6 +2831,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/a475e3dc23bc82f0732f74dabd2789947a9e32ff/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf)
 * Handback Datetime: 2015-11-13 20:44:29
+* Bilingual File: [user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/a475e3dc23bc82f0732f74dabd2789947a9e32ff/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='3ad17dbfa5dc1029c8196efe7ea00a259489e526201'></a> Source: [virtualization\hyperv_on_windows\user_guide\vmsession.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/00ed25d3377acdc37a67824a450d1e1bb0a07773/virtualization/hyperv_on_windows/user_guide/vmsession.md)
@@ -2799,6 +2845,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [vmsession.5b8e9c3583d826412e0ae8e2f58f1deca9901582.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/vmsession.5b8e9c3583d826412e0ae8e2f58f1deca9901582.de-de.xlf)
 * Handback Datetime: 2015-11-13 04:43:07
+* Bilingual File: [vmsession.5b8e9c3583d826412e0ae8e2f58f1deca9901582.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/63df763b2c1030af861707aef1788516148286cf/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/vmsession.5b8e9c3583d826412e0ae8e2f58f1deca9901582.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='3ecdd26ebe4ceede8ca5210bacc7320309a0d58f202'></a> Source: [virtualization\hyperv_on_windows\windows_welcome_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/e5a377ac5704a2eed2918e7228318ef92356d80f/virtualization/hyperv_on_windows/windows_welcome_new.md)
@@ -2811,6 +2859,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windows_welcome_new.7f23ab90b609bd894e638ebac56e2bc04c35f245.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/windows_welcome_new.7f23ab90b609bd894e638ebac56e2bc04c35f245.de-de.xlf)
 * Handback Datetime: 2016-01-11 08:40:38
+* Bilingual File: [windows_welcome_new.7f23ab90b609bd894e638ebac56e2bc04c35f245.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/windows_welcome_new.7f23ab90b609bd894e638ebac56e2bc04c35f245.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='47c33654a29cc06a29e3d776b9ddb9da66bd3c10203'></a> Source: [virtualization\windowscontainers\about\about_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ac9d3f1778adb9e2a21de74f0b185852338c79fd/virtualization/windowscontainers/about/about_overview.md)
@@ -2823,6 +2873,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.de-de.xlf)
 * Handback Datetime: 2016-01-11 08:40:38
+* Bilingual File: [about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/35a3d1546becd5421070c8aded799678eb7bdb82/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/about_overview.128dd77ccb6c6a944b03f43ade40980cc30f0f48.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='374cb34d6e534202d751b6ba63741ce4857b29b7204'></a> Source: [virtualization\windowscontainers\about\container_ecosystem.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/about/container_ecosystem.md)
@@ -2835,6 +2887,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [container_ecosystem.20bda9dd63d8896f8bdb5b77d8a94217b9f975d1.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/container_ecosystem.20bda9dd63d8896f8bdb5b77d8a94217b9f975d1.de-de.xlf)
 * Handback Datetime: 2015-11-13 07:55:37
+* Bilingual File: [container_ecosystem.20bda9dd63d8896f8bdb5b77d8a94217b9f975d1.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/container_ecosystem.20bda9dd63d8896f8bdb5b77d8a94217b9f975d1.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='f95b203d75796e065fe3fed1bf51014db44b924f205'></a> Source: [virtualization\windowscontainers\about\faq.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/about/faq.md)
@@ -2847,6 +2901,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [faq.9230ef72e03dd569ad85af3ef02d21277aad0e46.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/faq.9230ef72e03dd569ad85af3ef02d21277aad0e46.de-de.xlf)
 * Handback Datetime: 2015-11-13 07:55:37
+* Bilingual File: [faq.9230ef72e03dd569ad85af3ef02d21277aad0e46.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/faq.9230ef72e03dd569ad85af3ef02d21277aad0e46.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='7b2b5200e2da1b82e01c596da837387233322bf1206'></a> Source: [virtualization\windowscontainers\about\media\ContainerCreationLifeCycle.PNG](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/virtualization/windowscontainers/about/media/ContainerCreationLifeCycle.PNG)
@@ -2981,6 +3037,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [work_in_progress.4d0e298514e64fd94d18eb197e270fbbf7e07fd8.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/work_in_progress.4d0e298514e64fd94d18eb197e270fbbf7e07fd8.de-de.xlf)
 * Handback Datetime: 2015-11-13 07:55:37
+* Bilingual File: [work_in_progress.4d0e298514e64fd94d18eb197e270fbbf7e07fd8.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/work_in_progress.4d0e298514e64fd94d18eb197e270fbbf7e07fd8.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='dae37299a5f0b070b495f82863583a38f3ac8860217'></a> Source: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b6b597901bca274d5d4d377f8dcb2c55f59f6b6d/virtualization/windowscontainers/containers_welcome.md)
@@ -2993,6 +3051,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/01e32bd486b3048352a9232be35be2841e8b9d8f/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf)
 * Handback Datetime: 2015-11-18 23:48:48
+* Bilingual File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/01e32bd486b3048352a9232be35be2841e8b9d8f/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='d03873cb289bc97d547e1edcf34861ce8a48ff9e218'></a> Source: [virtualization\windowscontainers\docfx.json](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/virtualization/windowscontainers/docfx.json)
@@ -3017,6 +3077,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [b764ceadae3e4ccb30c57c8a30377356f3a0e5bd.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/b764ceadae3e4ccb30c57c8a30377356f3a0e5bd.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
+* Bilingual File: [b764ceadae3e4ccb30c57c8a30377356f3a0e5bd.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/b764ceadae3e4ccb30c57c8a30377356f3a0e5bd.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='215adae041390b1edb10b314dc7ce21f6b39592e220'></a> Source: [virtualization\windowscontainers\Media\1.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/virtualization/windowscontainers/Media/1.png)
@@ -3107,6 +3169,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [azure_setup.efbdfa56db2e296be3a4b34d7841c826cfcc65b5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/azure_setup.efbdfa56db2e296be3a4b34d7841c826cfcc65b5.de-de.xlf)
 * Handback Datetime: 2015-11-13 07:55:37
+* Bilingual File: [azure_setup.efbdfa56db2e296be3a4b34d7841c826cfcc65b5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/azure_setup.efbdfa56db2e296be3a4b34d7841c826cfcc65b5.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='e9fd87caa9aed0c8e7875bada45160f408f53e6e227'></a> Source: [virtualization\windowscontainers\quick_start\container_setup.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/quick_start/container_setup.md)
@@ -3119,6 +3183,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [container_setup.08ea6a3e6a859d063eb84a0b25eb20db0b7bdd52.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/container_setup.08ea6a3e6a859d063eb84a0b25eb20db0b7bdd52.de-de.xlf)
 * Handback Datetime: 2015-11-13 07:55:37
+* Bilingual File: [container_setup.08ea6a3e6a859d063eb84a0b25eb20db0b7bdd52.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/container_setup.08ea6a3e6a859d063eb84a0b25eb20db0b7bdd52.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='9f6d0de27c15eab1462e63ea299dd928c6790e82228'></a> Source: [virtualization\windowscontainers\quick_start\inplace_setup.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/quick_start/inplace_setup.md)
@@ -3131,6 +3197,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [inplace_setup.e4aa715ee9e809ad5bdf64eb7862fe63ef473bf2.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/inplace_setup.e4aa715ee9e809ad5bdf64eb7862fe63ef473bf2.de-de.xlf)
 * Handback Datetime: 2015-11-13 07:55:37
+* Bilingual File: [inplace_setup.e4aa715ee9e809ad5bdf64eb7862fe63ef473bf2.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/inplace_setup.e4aa715ee9e809ad5bdf64eb7862fe63ef473bf2.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='3495e4aa7b612a8e1a394afeb02f42f62eb7716d229'></a> Source: [virtualization\windowscontainers\quick_start\manage_docker.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/quick_start/manage_docker.md)
@@ -3143,6 +3211,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [manage_docker.d8787c7831358fa02dcde847d887fa29a1767ee5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/manage_docker.d8787c7831358fa02dcde847d887fa29a1767ee5.de-de.xlf)
 * Handback Datetime: 2015-11-13 07:55:37
+* Bilingual File: [manage_docker.d8787c7831358fa02dcde847d887fa29a1767ee5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/manage_docker.d8787c7831358fa02dcde847d887fa29a1767ee5.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='83ede64998d302769fe95b606da20296f3bccae5230'></a> Source: [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/9cbd523c2d5eb9c618da26e9ad389dc203f6d063/virtualization/windowscontainers/quick_start/manage_powershell.md)
@@ -3158,6 +3228,8 @@
 * Current Target File: [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperVTest.de-de/blob/12034a9840d859b10838caa2959753dcaf82ecd3/virtualization/windowscontainers/quick_start/manage_powershell.md)
 * Current Handback File: [manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.de-de.xlf)
 * Current Handback Datetime: 2015-11-13 07:55:37
+* Bilingual File: [manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='62712c1c810e5e6fd902a4a81b1b55400408aa3f231'></a> Source: [virtualization\windowscontainers\quick_start\media\App-in-Container-Green.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/virtualization/windowscontainers/quick_start/media/App-in-Container-Green.png)
@@ -3578,6 +3650,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [quickstart.162635dd9e091e7f54e55d5a354f09231e2393d5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/quickstart.162635dd9e091e7f54e55d5a354f09231e2393d5.de-de.xlf)
 * Handback Datetime: 2015-11-13 07:55:37
+* Bilingual File: [quickstart.162635dd9e091e7f54e55d5a354f09231e2393d5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbfca61972752f713c5ca66c876c48b49b07b4e7/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/quickstart.162635dd9e091e7f54e55d5a354f09231e2393d5.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='76e77f976b80356e83b7f48acf8170d619855ad8265'></a> Source: [virtualization\windowscontainers\quick_start\SampleFiles\index.html](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/virtualization/windowscontainers/quick_start/SampleFiles/index.html)
@@ -3602,6 +3676,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [app_compat.85ea42fd0d23543a8fad7596dfdec7699ec15654.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/a6aa7919f8f7a2c59b57eb402b5fe646947949a2/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/app_compat.85ea42fd0d23543a8fad7596dfdec7699ec15654.de-de.xlf)
 * Handback Datetime: 2015-12-09 00:04:47
+* Bilingual File: [app_compat.85ea42fd0d23543a8fad7596dfdec7699ec15654.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/a6aa7919f8f7a2c59b57eb402b5fe646947949a2/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/app_compat.85ea42fd0d23543a8fad7596dfdec7699ec15654.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='041b88830b633f85459d3b5be24b0d68ba8071bd267'></a> Source: [virtualization\windowscontainers\reference\powershell_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b624182be96d793f629e6360006d6e39fef5ce7d/virtualization/windowscontainers/reference/powershell_overview.md)
@@ -3614,6 +3690,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [041b88830b633f85459d3b5be24b0d68ba8071bd.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/041b88830b633f85459d3b5be24b0d68ba8071bd.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
+* Bilingual File: [041b88830b633f85459d3b5be24b0d68ba8071bd.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/041b88830b633f85459d3b5be24b0d68ba8071bd.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='4afb6a5af36a8ec55d1f0038a7a40ac758a892e8268'></a> Source: [virtualization\windowscontainers\reference\ps_docker_comparison.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/1722dcf8999ee978b3c34f2399eb0fbad3b2a9a3/virtualization/windowscontainers/reference/ps_docker_comparison.md)
@@ -3626,6 +3704,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/96666cdadc507355491b7cd01b57b86915b65ea9/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.de-de.xlf)
 * Handback Datetime: 2015-11-13 07:43:43
+* Bilingual File: [ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/96666cdadc507355491b7cd01b57b86915b65ea9/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/ps_docker_comparison.ebee670390084537f2252c760f11eefb8de5efa5.de-de.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 ##### <a name='c9a613b41195c01471a39d59e0fccdb2e226b08a269'></a> Source: [virtualization\windowscontainers\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b624182be96d793f629e6360006d6e39fef5ce7d/virtualization/windowscontainers/TOC.md)
@@ -3638,6 +3718,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [c9a613b41195c01471a39d59e0fccdb2e226b08a.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/c9a613b41195c01471a39d59e0fccdb2e226b08a.xlf)
 * Handback Datetime: 2015-10-16 05:19:08
+* Bilingual File: [c9a613b41195c01471a39d59e0fccdb2e226b08a.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/78c2cab96e4293ac9b921829de0ad6bafef49e55/ol-handback/OpenLocalizationOrg/hyperVTest.de-de/master/archive/c9a613b41195c01471a39d59e0fccdb2e226b08a.xlf)
+* Bilingual Datetime: 2016-06-28 05:50:25
 * [Back to Top](#report-top)
 
 
