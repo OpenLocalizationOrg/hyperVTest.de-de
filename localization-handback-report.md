@@ -1,11 +1,39 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 2
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\hyperv_on_windows\about\supported_guest_ms.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/f5ee4c9cdb3aecdece5074ce0653b76549b54c00/virtualization/hyperv_on_windows/about/supported_guest_ms.md) | HandedBackFailed | [Details](#30fdbdfbb66dcd22dd166646edc857724979376a101)
+ [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/78a41df59bd72682c55e25368f076eb77e07f7ec/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md) | HandedBackFailed | [Details](#0e41ea622ba8163d206407cb4fe455084aa4a536180)
 
 ## Item Details
+##### <a name='30fdbdfbb66dcd22dd166646edc857724979376a101'></a> Source: [virtualization\hyperv_on_windows\about\supported_guest_ms.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/f5ee4c9cdb3aecdece5074ce0653b76549b54c00/virtualization/hyperv_on_windows/about/supported_guest_ms.md)
+* Status: HandedBackFailed
+* Target File: 
+* Handoff File: [supported_guest_ms.05a2b6ce4d8734fb3122b672cba0770faa12cdbe.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/4227a4835db12824f441524e99b7050793418ba7/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/supported_guest_ms.05a2b6ce4d8734fb3122b672cba0770faa12cdbe.de-de.xlf)
+* Handoff Datetime: 2016-01-26 22:45:48
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='0e41ea622ba8163d206407cb4fe455084aa4a536180'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/78a41df59bd72682c55e25368f076eb77e07f7ec/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md)
+* Status: HandedBackFailed
+* Target File: 
+* Handoff File: [walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9cd62a3e752b06cecd8fd6fa22632f886508a3f1/ol-handoff/OpenLocalizationOrg/hyperVTest.de-de/master/walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.de-de.xlf)
+* Handoff Datetime: 2016-02-10 20:32:14
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

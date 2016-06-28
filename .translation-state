@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "a296546fd7414ac322c0b81f7d887f6461f86fc3",
-  "LastTranslatedCommit": "b12878c504d156f2bbafb092a473ed7d3aec181d",
+  "LastTranslatedCommit": "d7b0d572d1743ea44cd5dd645787da544a055189",
   "Items": {
     "426af95d3f431c9a2bc4a8c5735a8109792a7b80": {
       "FileHash": "426af95d3f431c9a2bc4a8c5735a8109792a7b80",
@@ -4557,17 +4557,17 @@
       "TargetFilePath": "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.de-de.xlf",
       "HandbackFileCommit": "63df763b2c1030af861707aef1788516148286cf",
-      "HandbackDateTime": "2016-03-02T01:36:34.2648448Z",
+      "HandbackDateTime": "2016-06-28T05:47:59.5236473Z",
       "HandbackException": {
         "internal_error_code": "handback_transform_failed",
-        "internal_error_message": "Handback file: C:\\gittest\\master\\OpenLocalizationService\\olhandback\\3f0a89\\ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.de-de.xlf failed.",
+        "internal_error_message": "Handback file: C:\\gittest\\master\\OpenLocalizationService\\olhandback\\3f0a89\\ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\poison\\supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.de-de.xlf failed.",
         "internal_error_retriable": false,
         "exception_message": "The object with id 101 does not exist in the markdown file",
         "exception_type": "System.InvalidOperationException",
-        "stack_trace": "   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.Transform(ILocalizationFile source)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.XliffToMarkdownCore(Stream xliffStream, Stream sklStream, Stream markdownStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, Stream xliffStream, Stream skeletonStream, Stream targetStream)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.XliffToMarkdown(IMarkdownTransformer markdownTransformer, String xliffFile, String skeletonFile, String markdownFile)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.XliffToMarkdown(String skeletonFile, String xliffFile, String mdfile, Boolean useJavascriptTransformer) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 41\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass5_0.<GetHandbackFiles>b__0(String file) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 407",
+        "stack_trace": "   at Microsoft.Content.Build.Components.XliffToMarkdownTransformHandler.Transform(ILocalizationFile source) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.LocFile\\Transform\\XliffToMarkdownTransformHandler.cs:line 83\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownTransformer.XliffToMarkdownCore(Stream xliffStream, Stream sklStream, Stream markdownStream) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownTransformer.cs:line 297\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.XliffToMarkdownCore(Stream xliffStream, Stream skeletonStream, Stream targetStream) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownJavascriptTransformer.cs:line 103\r\n   at Microsoft.OpenLocalization.Transformer.TransformerClient.XliffToMarkdown(Stream xliffStream, Stream skeletonStream, Stream targetStream) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 104\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.XliffToMarkdown(String skeletonFile, String xliffFile, String mdfile, Boolean useJavascriptTransformer) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 92\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass7_0.<GetHandbackFiles>b__1(String file) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 428",
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2015-11-13T04:43:07.7051704Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -4776,7 +4776,7 @@
       "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.de-de\\master\\walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.de-de.xlf",
       "HandbackFileCommit": "63df763b2c1030af861707aef1788516148286cf",
-      "HandbackDateTime": "2016-03-02T01:27:05.1634087Z",
+      "HandbackDateTime": "2016-06-28T05:47:59.5236473Z",
       "HandbackException": {
         "internal_error_code": "handback_validate_file_name_invalide",
         "internal_error_message": "Handback file name: walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.ja-jp is different with handoff file name: walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.de-de.",
@@ -4786,7 +4786,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2015-11-13T04:43:07.7051704Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
