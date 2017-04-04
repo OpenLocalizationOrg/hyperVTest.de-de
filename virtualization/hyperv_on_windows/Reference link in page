@@ -1,5 +1,5 @@
 # Current behavior of UI localization wiht [] and reference text: 
-在 Microsoft Intune 管理主控台中，選擇[群組]>[所有裝置](reference)。
+在 Microsoft Intune 管理主控台中，選擇[群組]>[link text itself]。
 
 
 # Possible Solutoins
@@ -34,9 +34,8 @@ With space: Vaya a **Quit** \(Salir\) en el menú.
 ## Solution 8 (change to entity, &#40;)
 在 Microsoft Intune 管理主控台中，選擇**群組**>**所有裝置**&#40;或包含您想要淘汰之電腦的其他群組&#41;。
 
+[link text itself]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
 
-[visible link text][reference]
-[reference]: www.microsoft.com<http://www.microsoft.com>
 
 
 
