@@ -1,7 +1,8 @@
 # Current behavior of UI localization wiht ** and (): 
 在 Microsoft Intune 管理主控台中，選擇**群組**>**所有裝置**(或包含您想要淘汰之電腦的其他群組)。
-Vaya a **Quit** (Salir) en el menú.
 
+Vaya a **Quit**(Salir) en el menú.
+Vaya a **Quit** (Salir) en el menú.
 
 # Possible Solutoins
 ## Solution 1 (full-width brackets, ［)
