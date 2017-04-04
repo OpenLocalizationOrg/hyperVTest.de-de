@@ -1,3 +1,4 @@
+
 ms.ContentId: 2b4ba69c-51a0-465c-a464-dca696cda744 
 title: Community Resources
 
@@ -14,6 +15,7 @@ title: Community Resources
 
 ## Solution 3 (escape character, \)
 在 Microsoft Intune 管理主控台中，選擇[群組]>[所有裝置]\(或包含您想要淘汰之電腦的其他群組\)。
+
 在 Microsoft Intune 管理主控台中，選擇[群組]>\[所有裝置\](或包含您想要淘汰之電腦的其他群組)。
 
 ## Solution 4 (lenticular brackets, 【)
