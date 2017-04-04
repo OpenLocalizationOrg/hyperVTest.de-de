@@ -1,36 +1,35 @@
 ms.ContentId: 2b4ba69c-51a0-465c-a464-dca696cda744 
 title: Community Resources
 
-# Test UI localization
-##Current behavior: 
+# Current behavior of UI localization wiht [] and () in JA, TW and KO: 
 在 Microsoft Intune 管理主控台中，選擇[群組]>[所有裝置](或包含您想要淘汰之電腦的其他群組)。
 
 
-
-## Possible solution 1 (full-width brackets, ［)
+# Possible Solutoins
+## Solution 1 (full-width brackets, ［)
 在 Microsoft Intune 管理主控台中，選擇［群組］>［所有裝置］(或包含您想要淘汰之電腦的其他群組)。
 
-## Possible solution 2 (usefull-width parenthesis, （)
+## Solution 2 (usefull-width parenthesis, （)
 在 Microsoft Intune 管理主控台中，選擇 [群組] > [所有裝置]（或包含您想要淘汰之電腦的其他群組）。
 
-## Possible solution 3 (escape character, \)
+## Solution 3 (escape character, \)
 在 Microsoft Intune 管理主控台中，選擇[群組]>[所有裝置]\(或包含您想要淘汰之電腦的其他群組\)。
 
-## Possible solution 4 (lenticular brackets, 【)
+## Solution 4 (lenticular brackets, 【)
 在 Microsoft Intune 管理主控台中，選擇【群組】>【所有裝置】(或包含您想要淘汰之電腦的其他群組)
 
 
-## Possible solution 5 (double byte double quotation mark, “)
+## Solution 5 (double byte double quotation mark, “)
 在 Microsoft Intune 管理主控台中，選擇 “群組 “> “所有裝置 “(或包含您想要淘汰之電腦的其他群組)。
 
 
-## Possible solution 6 (quotation mark, 「)
+## Solution 6 (quotation mark, 「)
 在 Microsoft Intune 管理主控台中，選擇「群組」>「所有裝置」(或包含您想要淘汰之電腦的其他群組)。
 
-## Possible solution 7 (half-width + space)
+## Solution 7 (half-width + space)
 在 Microsoft Intune 管理主控台中，選擇[群組]>[所有裝置]( 或包含您想要淘汰之電腦的其他群組 )。
 
-## Possible solution 8 (change to entity, &#40;)
+## Solution 8 (change to entity, &#40;)
 在 Microsoft Intune 管理主控台中，選擇[群組]>[所有裝置]&#40;或包含您想要淘汰之電腦的其他群組&#41;。
 
 
