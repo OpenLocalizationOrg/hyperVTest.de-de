@@ -2,15 +2,12 @@
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 Leave it empty and use the [link text itself].
-
-# Possible Solutoins
+Some text with [a link][1] and another [link][2].
 
 
 [link text itself]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
-
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 
 
-
-
-
+[1]: http://example.com/ "Title"
+[2]: http://example.org/ "Title"
