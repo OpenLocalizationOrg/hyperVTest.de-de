@@ -15,6 +15,11 @@ With space: Vaya a **Quit** (Salir) en el menú.
 ## Solution 3 (escape character, \)
 在 Microsoft Intune 管理主控台中，選擇**群組**>**所有裝置**\(或包含您想要淘汰之電腦的其他群組\)。
 
+Without space: Vaya a **Quit**\(Salir\) en el menú.
+
+With space: Vaya a **Quit** \(Salir\) en el menú.
+
+
 ## Solution 4 (lenticular brackets, 【)
 在 Microsoft Intune 管理主控台中，選擇**群組**>**所有裝置**(或包含您想要淘汰之電腦的其他群組)
 
@@ -32,6 +37,9 @@ With space: Vaya a **Quit** (Salir) en el menú.
 ## Solution 8 (change to entity, &#40;)
 在 Microsoft Intune 管理主控台中，選擇**群組**>**所有裝置**&#40;或包含您想要淘汰之電腦的其他群組&#41;。
 
+Without space: Vaya a **Quit**&#40;Salir&#41;en el menú.
+
+With space: Vaya a **Quit**&#40;Salir&#41;en el menú.
 
 
 
