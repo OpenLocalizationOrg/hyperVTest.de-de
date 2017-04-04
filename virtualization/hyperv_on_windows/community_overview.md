@@ -30,8 +30,8 @@ title: Community Resources
 ## Possible solution 7 (half-width + space)
 在 Microsoft Intune 管理主控台中，選擇[群組]>[所有裝置]( 或包含您想要淘汰之電腦的其他群組 )。
 
-## Possible solution 8 (change to entity, &#93;)
-在 Microsoft Intune 管理主控台中，選擇[群組]>[所有裝置]&#43;或包含您想要淘汰之電腦的其他群組&#41;)。
+## Possible solution 8 (change to entity, &#40;)
+在 Microsoft Intune 管理主控台中，選擇[群組]>[所有裝置]&#40;或包含您想要淘汰之電腦的其他群組&#41;。
 
 
 
