@@ -1,13 +1,16 @@
+
 # Current behavior of UI localization wiht [] and reference text: 
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 Leave it empty and use the [link text itself].
 Some text with [a link][1] and another [link][2].
+This is [an example](http://example.com/ "Title") inline link.
 
 
-[link text itself]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
-
+[link text itself]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
 
 [1]: http://example.com/ "Title"
 [2]: http://example.org/ "Title"
+
+[This link](http://example.net/) has no title attribute.
