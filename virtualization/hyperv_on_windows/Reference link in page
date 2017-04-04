@@ -1,9 +1,6 @@
-# Current behavior of UI localization wiht ** and (): 
-在 Microsoft Intune 管理主控台中，選擇**群組**>**所有裝置**(或包含您想要淘汰之電腦的其他群組)。
+# Current behavior of UI localization wiht [] and reference text: 
+在 Microsoft Intune 管理主控台中，選擇[群組]>[所有裝置][reference]。
 
-Without space: Vaya a **Quit**(Salir) en el menú.
-
-With space: Vaya a **Quit** (Salir) en el menú.
 
 # Possible Solutoins
 ## Solution 1 (full-width brackets, ［)
@@ -37,9 +34,10 @@ With space: Vaya a **Quit** \(Salir\) en el menú.
 ## Solution 8 (change to entity, &#40;)
 在 Microsoft Intune 管理主控台中，選擇**群組**>**所有裝置**&#40;或包含您想要淘汰之電腦的其他群組&#41;。
 
-Without space: Vaya a **Quit**&#40;Salir&#41;en el menú.
 
-With space: Vaya a **Quit**&#40;Salir&#41;en el menú.
+[visible link text][reference]
+[reference]: www.microsoft.com<http://www.microsoft.com>
+
 
 
 
