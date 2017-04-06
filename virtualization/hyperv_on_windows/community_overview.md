@@ -4,6 +4,7 @@ title: Community Resources
 
 # Current behavior of UI localization wiht [] and () in JA, TW and KO: 
 在 Microsoft Intune 管理主控台中，選擇[群組]>[所有裝置](或包含您想要淘汰之電腦的其他群組)。
+Vaya a **Quit**(Salir) en el menú
 
 
 # Possible Solutoins
@@ -20,6 +21,8 @@ title: Community Resources
 在 Microsoft Intune 管理主控台中，選擇[群組]>[所有裝置]\(或包含您想要淘汰之電腦的其他群組\)。
 
 在 Microsoft Intune 管理主控台中，選擇[群組]>\[所有裝置\](或包含您想要淘汰之電腦的其他群組)。
+
+Vaya a **Quit**\(Salir\) en el menú
 
 ## Solution 4 (lenticular brackets, 【)
 在 Microsoft Intune 管理主控台中，選擇【群組】>【所有裝置】(或包含您想要淘汰之電腦的其他群組)
