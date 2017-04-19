@@ -54,5 +54,6 @@ Vaya a **Quit** (Salir) en el menú
 ## Solution 11 (add () within [])
 この問題を解決するには [Host in Cloud (クラウド内のホスト)] チェックボックスをオフにしてください。
 
+この問題を解決するには [Host in Cloud(クラウド内のホスト)] チェックボックスをオフにしてください。
 
 <!--HONumber=Jan16_HO1-->
