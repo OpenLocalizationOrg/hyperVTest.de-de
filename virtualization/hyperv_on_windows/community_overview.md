@@ -56,4 +56,5 @@ Vaya a **Quit** (Salir) en el menú
 
 この問題を解決するには [Host in Cloud(クラウド内のホスト)] チェックボックスをオフにしてください。
 
-<!--HONumber=Jan16_HO1-->
+<http://localhost:5000/>。
+http://localhost:5000/。
