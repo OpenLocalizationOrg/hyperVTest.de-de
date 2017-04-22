@@ -1,4 +1,5 @@
 
+http://localhost:5000/。
 ms.ContentId: 2b4ba69c-51a0-465c-a464-dca696cda744 
 title: Community Resources
 
@@ -58,3 +59,4 @@ Vaya a **Quit** (Salir) en el menú
 
 <http://localhost:5000/>。
 http://localhost:5000/。
+http://localhost:5000。
